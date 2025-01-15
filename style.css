@@ -1,44 +1,96 @@
+/* General Styles */
 body {
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #f8f8f8;
+    background-color: #1c1c1c;
+    color: #fff;
 }
-header {
-    background-color: #333;
-    color: white;
-    padding: 20px 0;
-    text-align: center;
+
+a {
+    color: #fff;
+    text-decoration: none;
 }
-header h1 {
+
+h1, h2 {
     margin: 0;
-    font-size: 2.5rem;
 }
+
+h2 {
+    font-size: 2rem;
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Navigation Bar Styles */
+header {
+    background-color: #111;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+.nav-links li a {
+    font-size: 1.2rem;
+}
+
+/* Portfolio Styles */
+.portfolio {
+    padding: 80px 20px 20px;
+}
+
 .gallery {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 16px;
-    padding: 20px;
+    gap: 20px;
 }
-.gallery img {
+
+.gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.gallery-item img {
     width: 100%;
     height: auto;
-    border-radius: 8px;
-    transition: transform 0.3s ease;
+    transition: transform 0.3s ease-in-out;
 }
-.gallery img:hover {
-    transform: scale(1.05);
+
+.gallery-item img:hover {
+    transform: scale(1.1);
 }
+
+/* Footer Styles */
 footer {
-    background-color: #333;
-    color: white;
-    padding: 10px 0;
+    background-color: #111;
+    padding: 20px;
     text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
 }
-footer a {
-    color: #ffffff;
-    text-decoration: none;
-    font-weight: bold;
+
+footer p {
+    margin: 5px 0;
 }
 
 
