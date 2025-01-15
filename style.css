@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #111;  /* Dark background */
-    color: #fff;             /* White text */
+    background-color: #000000; /* Black background */
+    color: #E0E0E0;             /* Lighter text color for contrast */
 }
 
 a {
-    color: #fff;
+    color: #E0E0E0;
     text-decoration: none;
 }
 
@@ -24,7 +24,7 @@ h2 {
 
 /* Navigation Bar Styles */
 header {
-    background-color: #222; /* Dark header */
+    background-color: #111111; /* Dark gray background for header */
     padding: 20px;
     position: fixed;
     width: 100%;
@@ -50,11 +50,13 @@ nav {
 
 .nav-links li a {
     font-size: 1.2rem;
+    color: #E0E0E0; /* Light gray for links */
 }
 
-/* Portfolio Styles */
+/* Portfolio Section */
 .portfolio {
-    padding: 100px 20px 20px;  /* Added padding to push content down below header */
+    padding: 100px 20px 20px;  /* Added padding to push content below header */
+    text-align: center;
 }
 
 h2 {
@@ -71,7 +73,7 @@ h2 {
     position: relative;
     overflow: hidden;
     border-radius: 8px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.8); /* Dark shadow to enhance dark theme */
     transition: transform 0.3s ease-in-out;
 }
 
@@ -89,7 +91,7 @@ h2 {
 
 /* Footer Styles */
 footer {
-    background-color: #222; /* Dark footer */
+    background-color: #111111; /* Dark footer */
     padding: 20px;
     text-align: center;
     position: relative;
@@ -100,3 +102,8 @@ footer {
 footer p {
     margin: 5px 0;
 }
+
+footer a {
+    color: #E0E0E0;
+}
+
