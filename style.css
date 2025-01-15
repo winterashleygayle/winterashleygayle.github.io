@@ -33,8 +33,11 @@
       color: white;
       margin-top: 20px;
     }
-   img {
-  max-width: 100%;
-  height: auto; 
-  border-radius: 8px; 
-   }
+   /* Resize all images */
+img {
+  max-width: 100%; /* Makes images fit inside their container */
+  height: auto; /* Keeps the image's proportions (no stretching) */
+  border-radius: 8px; /* Optional: Adds rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a nice shadow effect */
+}
+
