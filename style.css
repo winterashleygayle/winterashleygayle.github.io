@@ -33,3 +33,8 @@
       color: white;
       margin-top: 20px;
     }
+   img {
+  max-width: 100%; /* Ensures images scale to fit within their container */
+  height: auto; /* Maintains the image's aspect ratio */
+  border-radius: 8px; /* Optional: Adds rounded corners */
+}
