@@ -1,22 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto', sans-serif;
+            background-color: #f8f8f8;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 16px;
+            padding: 20px;
+        }
+        .gallery img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            transition: transform 0.3s ease;
+        }
+        .gallery img:hover {
+            transform: scale(1.05);
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        footer a {
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ashley Winter Photography</h1>
+        <p>Capturing Moments in Time</p>
+    </header>
+    <div class="gallery">
+        <!-- Gallery Section -->
+        <img src="https://via.placeholder.com/600x400" alt="Photography 1">
+        <img src="https://via.placeholder.com/600x400" alt="Photography 2">
+        <img src="https://via.placeholder.com/600x400" alt="Photography 3">
+        <img src="https://via.placeholder.com/600x400" alt="Photography 4">
+        <img src="https://via.placeholder.com/600x400" alt="Photography 5">
+        <img src="https://via.placeholder.com/600x400" alt="Photography 6">
+    </div>
+    <footer>
+        <p>&copy; 2025 Ashley Winter Photography. All Rights Reserved.</p>
+        <p><a href="mailto:ashley@example.com">Contact Me</a></p>
+    </footer>
+</body>
+</html>
 
-<!DOCTYPE HTML>
-<!--
-	Multiverse by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>Multiverse by HTML5 UP</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-preload">
-
-		<!-- Wrapper -->
-			<div id="wrapper">
 
 				<!-- Header -->
 					<header id="header">
