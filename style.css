@@ -3,8 +3,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #1c1c1c;
-    color: #fff;
+    background-color: #111;  /* Dark background */
+    color: #fff;             /* White text */
 }
 
 a {
@@ -24,7 +24,7 @@ h2 {
 
 /* Navigation Bar Styles */
 header {
-    background-color: #111;
+    background-color: #222; /* Dark header */
     padding: 20px;
     position: fixed;
     width: 100%;
@@ -54,12 +54,16 @@ nav {
 
 /* Portfolio Styles */
 .portfolio {
-    padding: 80px 20px 20px;
+    padding: 100px 20px 20px;  /* Added padding to push content down below header */
+}
+
+h2 {
+    font-size: 3rem;
 }
 
 .gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive grid */
     gap: 20px;
 }
 
@@ -67,21 +71,25 @@ nav {
     position: relative;
     overflow: hidden;
     border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Subtle shadow */
+    transition: transform 0.3s ease-in-out;
 }
 
 .gallery-item img {
     width: 100%;
     height: auto;
-    transition: transform 0.3s ease-in-out;
+    display: block;
+    border-radius: 8px; /* Rounded corners */
+    object-fit: cover;  /* Ensure images fill the container */
 }
 
-.gallery-item img:hover {
-    transform: scale(1.1);
+.gallery-item:hover {
+    transform: scale(1.05);  /* Slight zoom effect on hover */
 }
 
 /* Footer Styles */
 footer {
-    background-color: #111;
+    background-color: #222; /* Dark footer */
     padding: 20px;
     text-align: center;
     position: relative;
