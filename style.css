@@ -40,4 +40,18 @@ img {
   border-radius: 8px; /* Optional: Adds rounded corners */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Adds a nice shadow effect */
 }
+/* Gallery layout */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Automatically create columns */
+  gap: 20px; /* Space between images */
+}
+
+.gallery img {
+  width: 100%; /* Ensures images fill their grid cells */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds shadow */
+}
+
 
