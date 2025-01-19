@@ -1,59 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ashley Winter Photography</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Photography Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+  <!-- Static Background -->
+  <div class="background"></div>
 
-    <!-- Navigation Bar -->
+  <!-- Main Content -->
+  <div class="content">
+    <!-- Navigation -->
     <header>
-        <nav>
-            <div class="logo">
-                <h1>Ashley Winter Freelance</h1>
-            </div>
-            <ul class="nav-links">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Gallery</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
+      <div class="nav-left">
+        <a href="#about" class="nav-item name">Your Name</a>
+        <a href="#portfolio" class="nav-item">Portfolio</a>
+        <a href="#contact" class="nav-item">Contact</a>
+      </div>
     </header>
 
-    <!-- Portfolio Section -->
-    <section class="portfolio">
-        <h2>My Photography Portfolio</h2>
-        <div class="gallery">
-            <div class="gallery-item">
-                <img src="https://via.placeholder.com/600x400" alt="Photography 1">
-            </div>
-            <div class="gallery-item">
-                <img src="https://via.placeholder.com/600x400" alt="Photography 2">
-            </div>
-            <div class="gallery-item">
-                <img src="https://via.placeholder.com/600x400" alt="Photography 3">
-            </div>
-            <div class="gallery-item">
-                <img src="https://via.placeholder.com/600x400" alt="Photography 4">
-            </div>
-            <div class="gallery-item">
-                <img src="https://via.placeholder.com/600x400" alt="Photography 5">
-            </div>
-            <div class="gallery-item">
-                <img src="https://via.placeholder.com/600x400" alt="Photography 6">
-            </div>
-        </div>
+    <!-- About Section -->
+    <section id="about" class="about-section">
+      <h1>About Me</h1>
+      <p>Welcome! I’m a passionate photographer, videographer, and artist, capturing moments that tell unique stories. Explore my portfolio to discover my work.</p>
     </section>
 
-    <!-- Footer Section -->
-    <footer>
-        <p>&copy; 2025 Ashley Winter Photography. All Rights Reserved.</p>
-        <p><a href="mailto:ashley@example.com">Contact Me</a></p>
-    </footer>
+    <!-- Photo Grid Section -->
+    <section id="portfolio" class="photo-grid-section">
+      <h1>Portfolio</h1>
+      <div class="photo-grid">
+        <div class="photo" style="grid-column: span 2;"><img src="photo1.jpg" alt="Photo 1"></div>
+        <div class="photo"><img src="photo2.jpg" alt="Photo 2"></div>
+        <div class="photo"><img src="photo3.jpg" alt="Photo 3"></div>
+        <div class="photo" style="grid-row: span 2;"><img src="photo4.jpg" alt="Photo 4"></div>
+        <div class="photo"><img src="photo5.jpg" alt="Photo 5"></div>
+        <div class="photo" style="grid-column: span 2; grid-row: span 2;"><img src="photo6.jpg" alt="Photo 6"></div>
+      </div>
+    </section>
 
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section">
+      <h1>Contact Me</h1>
+      <p>Interested in working together? Feel free to reach out!</p>
+      <a href="mailto:your.email@example.com" class="button">Email Me</a>
+    </section>
+  </div>
 </body>
 </html>
+
