@@ -123,3 +123,33 @@ body {
   max-width: 1200px;
   margin: 0 auto;
 }
+
+/* Portfolio Item Images */
+.portfolio-item img {
+  display: block; /* Removes extra spacing below images */
+  width: 100%; /* Ensures the image fits the container width */
+  height: auto; /* Maintains aspect ratio */
+  max-width: 250px; /* Maximum width for images */
+  max-height: 180px; /* Maximum height for images */
+  object-fit: cover; /* Crops the image neatly to fit dimensions */
+  border-radius: 8px; /* Adds rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+  margin: 0 auto; /* Centers the image within its container */
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+/* Hover Effect for Images */
+.portfolio-item:hover img {
+  transform: scale(1.05); /* Enlarges slightly on hover */
+}
+
+/* Portfolio Grid Layout */
+.portfolio-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Smaller columns for smaller images */
+  gap: 20px; /* Space between items */
+  padding: 20px;
+  max-width: 1200px; /* Limits the overall grid width */
+  margin: 0 auto;
+}
+
