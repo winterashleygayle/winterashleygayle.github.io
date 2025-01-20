@@ -91,4 +91,28 @@ body {
   font-size: 0.9rem;
 }
 
+/* Portfolio Item Images */
+.portfolio-item img {
+  width: 100%; /* Ensures images take up the width of their container */
+  height: auto; /* Maintains aspect ratio */
+  max-height: 200px; /* Limits the image height to prevent them from being too large */
+  object-fit: cover; /* Ensures the image looks neat without distortion */
+  border-radius: 8px; /* Adds rounded corners for a polished look */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for a professional effect */
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+.portfolio-item:nth-child(odd) img {
+  max-height: 180px; /* Alternates image height for visual variety */
+}
+
+.portfolio-item:nth-child(even) img {
+  max-height: 220px; /* Alternates image height for visual variety */
+}
+
+.portfolio-item:hover img {
+  transform: scale(1.05); /* Enlarges image slightly on hover */
+}
+
+
 
