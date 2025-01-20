@@ -1,175 +1,74 @@
-/* General Styles */
+
+/* Global Styles */
 body {
-  font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
-  background-color: #f8f9fa;
-  color: #333;
-  line-height: 1.6;
+  font-family: 'Arial', sans-serif;
+  background-color: #000; /* Black background */
+  color: #fff; /* White text */
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff7f50; /* Coral color on hover */
 }
 
 /* Header */
-.header {
-  text-align: center;
-  background-color: #333;
-  color: #fff;
-  padding: 20px 0;
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: #111; /* Slightly lighter black for contrast */
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
-.header h1 {
-  font-size: 2.5rem;
-  margin: 0;
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  letter-spacing: 1px;
 }
 
-.header p {
-  font-size: 1.2rem;
-  margin: 10px 0 0;
-}
-
-/* Portfolio Container */
-.portfolio-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+nav ul {
+  list-style: none;
+  display: flex;
   gap: 20px;
-  padding: 20px;
-  max-width: 1200px;
-  margin: 0 auto;
 }
 
-/* Portfolio Items */
-.portfolio-item {
-  position: relative;
-  overflow: hidden;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+nav ul li {
+  font-size: 1rem;
 }
 
-.portfolio-item img {
+/* Main Grid */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 40px;
+}
+
+.grid-item img {
   width: 100%;
   height: auto;
-  max-height: 300px; /* Ensures images are not too tall */
-  object-fit: cover; /* Ensures images fill their container neatly */
-  display: block;
-  transition: transform 0.3s ease;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-.portfolio-item:nth-child(odd) img {
-  max-height: 250px; /* Alternate size for variety */
-}
-
-.portfolio-item:nth-child(even) img {
-  max-height: 350px; /* Alternate size for variety */
-}
-
-.portfolio-item:hover img {
-  transform: scale(1.05);
-}
-
-.caption {
-  position: absolute;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.6);
-  color: #fff;
-  padding: 10px;
-  text-align: center;
-  width: 100%;
-  font-size: 1rem;
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
-
-.portfolio-item:hover .caption {
-  opacity: 1;
+.grid-item img:hover {
+  transform: scale(1.05); /* Slight zoom effect */
+  box-shadow: 0 8px 12px rgba(255, 255, 255, 0.2);
 }
 
 /* Footer */
-.footer {
+footer {
   text-align: center;
-  padding: 20px 0;
-  background-color: #333;
-  color: #fff;
+  padding: 20px;
+  background-color: #111;
   font-size: 0.9rem;
 }
-
-/* Portfolio Item Images */
-.portfolio-item img {
-  width: 100%; /* Ensures images take up the width of their container */
-  height: auto; /* Maintains aspect ratio */
-  max-height: 200px; /* Limits the image height to prevent them from being too large */
-  object-fit: cover; /* Ensures the image looks neat without distortion */
-  border-radius: 8px; /* Adds rounded corners for a polished look */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow for a professional effect */
-  transition: transform 0.3s ease, filter 0.3s ease;
-}
-
-.portfolio-item:nth-child(odd) img {
-  max-height: 180px; /* Alternates image height for visual variety */
-}
-
-.portfolio-item:nth-child(even) img {
-  max-height: 220px; /* Alternates image height for visual variety */
-}
-
-.portfolio-item:hover img {
-  transform: scale(1.05); /* Enlarges image slightly on hover */
-}
-
-/* Portfolio Grid */
-.portfolio-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Smaller minimum size for images */
-  gap: 20px; /* Spacing between items */
-  padding: 20px;
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-/* Portfolio Item Images */
-.portfolio-item img {
-  display: block; /* Removes extra spacing below images */
-  width: 100%; /* Ensures the image fits the container width */
-  height: auto; /* Maintains aspect ratio */
-  max-width: 250px; /* Maximum width for images */
-  max-height: 180px; /* Maximum height for images */
-  object-fit: cover; /* Crops the image neatly to fit dimensions */
-  border-radius: 8px; /* Adds rounded corners */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
-  margin: 0 auto; /* Centers the image within its container */
-  transition: transform 0.3s ease, filter 0.3s ease;
-}
-
-/* Hover Effect for Images */
-.portfolio-item:hover img {
-  transform: scale(1.05); /* Enlarges slightly on hover */
-}
-
-/* Portfolio Grid Layout */
-.portfolio-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Smaller columns for smaller images */
-  gap: 20px; /* Space between items */
-  padding: 20px;
-  max-width: 1200px; /* Limits the overall grid width */
-  margin: 0 auto;
-}
-/* Background for the entire page */
-body {
-  background-image: url('babybird.jpeg'); /* Replace with your image path */
-  background-size: cover; /* Ensures the image covers the entire background */
-  background-repeat: no-repeat; /* Prevents the image from repeating */
-  background-position: center; /* Centers the image */
-  background-attachment: fixed; /* Makes the background stay fixed while scrolling */
-  color: #fff; /* Adjusts text color to contrast with the background */
-}
-
-/* Background for a specific section (optional) */
-#portfolio-section {
-  background-image: url('babybird.jpeg'); /* Replace with your image path */
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  padding: 50px 20px; /* Adds spacing inside the section */
-  color: #fff; /* Optional: Ensures text is visible */
-}
-
-
