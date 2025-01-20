@@ -152,4 +152,24 @@ body {
   max-width: 1200px; /* Limits the overall grid width */
   margin: 0 auto;
 }
+/* Background for the entire page */
+body {
+  background-image: url('babybird.jpeg'); /* Replace with your image path */
+  background-size: cover; /* Ensures the image covers the entire background */
+  background-repeat: no-repeat; /* Prevents the image from repeating */
+  background-position: center; /* Centers the image */
+  background-attachment: fixed; /* Makes the background stay fixed while scrolling */
+  color: #fff; /* Adjusts text color to contrast with the background */
+}
+
+/* Background for a specific section (optional) */
+#portfolio-section {
+  background-image: url('your-image.jpg'); /* Replace with your image path */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 50px 20px; /* Adds spacing inside the section */
+  color: #fff; /* Optional: Ensures text is visible */
+}
+
 
