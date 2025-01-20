@@ -1,4 +1,4 @@
-
+/* Header Styles */
 header {
   display: flex;
   justify-content: space-between;
@@ -11,21 +11,24 @@ header {
   box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
 }
 
+/* Body Styles */
 body {
   margin: 0;
   font-family: 'Arial', sans-serif;
   background-image: url('baretree.jpeg'); /* Replace with your image */
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+  background-size: cover; /* Ensures the background covers the whole screen */
+  background-repeat: no-repeat; /* Prevents tiling */
+  background-position: center; /* Centers the image */
   color: #fff; /* Ensures text is readable over the background */
 }
 
+/* Logo Style */
 .logo {
   font-size: 1.8rem;
   font-weight: bold;
 }
 
+/* Navigation Styles */
 nav ul {
   list-style: none;
   display: flex;
@@ -36,7 +39,7 @@ nav ul li {
   font-size: 1rem;
 }
 
-/* Main Grid */
+/* Grid Layout */
 .grid-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
@@ -58,30 +61,28 @@ nav ul li {
   transform: scale(1.05); /* Subtle zoom effect */
   box-shadow: 0 8px 12px rgba(255, 255, 255, 0.3);
 }
+
+/* Link Styles */
 a {
-  color: #666; /* White text for links */
+  color: #fff; /* White text for all links */
   text-decoration: none; /* Removes underline */
   font-weight: bold;
 }
 
 a:visited {
-  color: #666; /* Ensures visited links stay white */
+  color: #fff; /* Ensures visited links stay white */
 }
 
 a:hover {
-  color: #ff0000; /* Optional: Coral color on hover */
+  color: #ff7f50; /* Coral color on hover */
 }
 
 a:active {
-  color: #666; /* Ensures active links stay white */
+  color: #fff; /* Ensures active links stay white */
 }
 
+/* Footer Styles */
 footer {
-  text-align: center;
-  padding: 20px;
-  background-color: #111;
-  color: #777;
-  font-size: 0.9rem;
-  box-shadow: 0 -2px 5px rgba(255, 255, 255, 0.1);
-}
+ 
+
 
