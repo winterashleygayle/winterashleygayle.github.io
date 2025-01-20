@@ -58,8 +58,24 @@ nav ul li {
   transform: scale(1.05); /* Subtle zoom effect */
   box-shadow: 0 8px 12px rgba(255, 255, 255, 0.3);
 }
+a {
+  color: #666; /* White text for links */
+  text-decoration: none; /* Removes underline */
+  font-weight: bold;
+}
 
-/* Footer */
+a:visited {
+  color: #666; /* Ensures visited links stay white */
+}
+
+a:hover {
+  color: #ff0000; /* Optional: Coral color on hover */
+}
+
+a:active {
+  color: #666; /* Ensures active links stay white */
+}
+
 footer {
   text-align: center;
   padding: 20px;
@@ -68,25 +84,4 @@ footer {
   font-size: 0.9rem;
   box-shadow: 0 -2px 5px rgba(255, 255, 255, 0.1);
 }
-
-a {
-  color: #fff; /* White text for links */
-  text-decoration: none; /* Removes underline */
-  font-weight: bold;
-}
-
-a:visited {
-  color: #fff; /* Ensures visited links stay white */
-}
-
-a:hover {
-  color: #ff7f50; /* Optional: Coral color on hover */
-}
-
-a:active {
-  color: #fff; /* Ensures active links stay white */
-}
-
-
-
 
