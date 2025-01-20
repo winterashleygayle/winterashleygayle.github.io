@@ -1,15 +1,4 @@
-/* Global Styles */
-body {
-  margin: 0;
-  font-family: 'Arial', sans-serif;
-  background-image: url('baretree.jpeg'); /* Replace with your image */
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  color: #fff; /* Ensures text is readable over the background */
-}
 
-/* Header */
 header {
   display: flex;
   justify-content: space-between;
@@ -22,8 +11,15 @@ header {
   box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
 }
 
-/* Add the rest of your CSS here */
-
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-image: url('baretree.jpeg'); /* Replace with your image */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: #fff; /* Ensures text is readable over the background */
+}
 
 .logo {
   font-size: 1.8rem;
@@ -73,7 +69,6 @@ footer {
   box-shadow: 0 -2px 5px rgba(255, 255, 255, 0.1);
 }
 
-/* Links - Normal, Hover, Visited, and Active States */
 a {
   color: #fff; /* White text for links */
   text-decoration: none; /* Removes underline */
