@@ -1,52 +1,84 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Photography Portfolio</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <!-- Static Background -->
-  <div class="background"></div>
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  color: #333;
+  line-height: 1.6;
+}
 
-  <!-- Main Content -->
-  <div class="content">
-    <!-- Navigation -->
-    <header>
-      <div class="nav-left">
-        <a href="#about" class="nav-item name">Your Name</a>
-        <a href="#portfolio" class="nav-item">Portfolio</a>
-        <a href="#contact" class="nav-item">Contact</a>
-      </div>
-    </header>
+/* Header */
+.header {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+}
 
-    <!-- About Section -->
-    <section id="about" class="about-section">
-      <h1>About Me</h1>
-      <p>Welcome! I’m a passionate photographer, videographer, and artist, capturing moments that tell unique stories. Explore my portfolio to discover my work.</p>
-    </section>
+.header h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
 
-    <!-- Photo Grid Section -->
-    <section id="portfolio" class="photo-grid-section">
-      <h1>Portfolio</h1>
-      <div class="photo-grid">
-        <div class="photo" style="grid-column: span 2;"><img src="babybird.jpeg" alt="Photo 1"></div>
-        <div class="photo"><img src="crow.jpeg" alt="Photo 2"></div>
-        <div class="photo"><img src="moon.jpeg" alt="Photo 3"></div>
-        <div class="photo" style="grid-row: span 2;"><img src="moon1.jpeg" alt="Photo 4"></div>
-        <div class="photo"><img src="photo5.jpg" alt="Photo 5"></div>
-        <div class="photo" style="grid-column: span 2; grid-row: span 2;"><img src="photo6.jpg" alt="Photo 6"></div>
-      </div>
-    </section>
+.header p {
+  font-size: 1.2rem;
+  margin: 10px 0 0;
+}
 
-    <!-- Contact Section -->
-    <section id="contact" class="contact-section">
-      <h1>Contact Me</h1>
-      <p>Interested in working together? Feel free to reach out!</p>
-      <a href="mailto:your.email@example.com" class="button">Email Me</a>
-    </section>
-  </div>
-</body>
-</html>
+/* Portfolio Container */
+.portfolio-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Portfolio Items */
+.portfolio-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.portfolio-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.portfolio-item:hover img {
+  transform: scale(1.05);
+}
+
+.caption {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  font-size: 1rem;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.portfolio-item:hover .caption {
+  opacity: 1;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #333;
+  color: #fff;
+  font-size: 0.9rem;
+}
+
 
