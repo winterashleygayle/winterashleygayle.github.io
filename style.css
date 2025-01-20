@@ -73,5 +73,25 @@ footer {
   box-shadow: 0 -2px 5px rgba(255, 255, 255, 0.1);
 }
 
+/* Links - Normal, Hover, Visited, and Active States */
+a {
+  color: #fff; /* White text for links */
+  text-decoration: none; /* Removes underline */
+  font-weight: bold;
+}
+
+a:visited {
+  color: #fff; /* Ensures visited links stay white */
+}
+
+a:hover {
+  color: #ff7f50; /* Optional: Coral color on hover */
+}
+
+a:active {
+  color: #fff; /* Ensures active links stay white */
+}
+
+
 
 
