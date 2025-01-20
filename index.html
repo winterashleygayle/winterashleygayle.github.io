@@ -47,8 +47,18 @@ body {
 .portfolio-item img {
   width: 100%;
   height: auto;
+  max-height: 300px; /* Ensures images are not too tall */
+  object-fit: cover; /* Ensures images fill their container neatly */
   display: block;
   transition: transform 0.3s ease;
+}
+
+.portfolio-item:nth-child(odd) img {
+  max-height: 250px; /* Alternate size for variety */
+}
+
+.portfolio-item:nth-child(even) img {
+  max-height: 350px; /* Alternate size for variety */
 }
 
 .portfolio-item:hover img {
