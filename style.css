@@ -114,5 +114,12 @@ body {
   transform: scale(1.05); /* Enlarges image slightly on hover */
 }
 
-
-
+/* Portfolio Grid */
+.portfolio-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Smaller minimum size for images */
+  gap: 20px; /* Spacing between items */
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
