@@ -1,20 +1,17 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2026-01-20
 layout: post
-title: Welcome to the desert of the real
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Threshold 
+subtitle: 
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
-optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  Photographed inside an old barn in rural Oregon, this image reflects the meeting place between memory and possibility. The worn wood, empty chairs, and fading light speak to the passage of time — a reminder that every doorway opens to both what we’ve lived and what remains ahead. It is part of a continuing series exploring memory, place, and human nature in rural landscapes.
+image: image: /assets/img/uploads/threshold.jpg
+optimized_image: /assets/img/uploads/threshold.jpg
 category: blog
 tags:
   - welcome
   - blog
-author: mranderson
+author: awinter
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
