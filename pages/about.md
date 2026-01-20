@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img src="/assets/img/uploads/ashley 002(1).jpg" alt="ashley 002(1)">
+<img src="/assets/img/uploads/ashley.jpg" alt="ashley">
 
 
 # About
