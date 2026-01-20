@@ -1,5 +1,5 @@
 ---
-date: 2018-03-12 12:26:40
+date: 2026-01-20 12:26:40
 layout: post
 title: Trust me, it will work
 subtitle: dark side of the moon
