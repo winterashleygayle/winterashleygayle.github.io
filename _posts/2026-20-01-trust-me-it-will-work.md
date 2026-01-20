@@ -4,8 +4,8 @@ layout: post
 title: Trust me, it will work
 subtitle: dark side of the moon
 description: Long before humans pointed lenses upward and named what they could not touch...
-image: /assets/img/uploads/MOON.jpeg
-optimized_image: /assets/img/uploads/MOON.jpeg
+image: /assets/img/uploads/MOON.jpg
+optimized_image: /assets/img/uploads/MOON.jpg
 category: trust
 tags:
 
