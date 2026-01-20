@@ -3,7 +3,7 @@ date: 2026-01-20
 layout: post
 title: Threshold 
 subtitle: 
-description: >inside barn photograph 
+description: inside barn photograph 
 image: /assets/img/uploads/threshold.jpg
 optimized_image: /assets/img/uploads/threshold.jpg
 
