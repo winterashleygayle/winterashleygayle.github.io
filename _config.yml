@@ -30,8 +30,7 @@ formspree_form_id: formspree_form_id
 # Social Media Settings
 # Remove the item if you don't need it
 # Social preview (Open Graph)
-image: /assets/images/airplane.jpeg
-
+image: /assets/img/uploads/airplane.jpeg
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
