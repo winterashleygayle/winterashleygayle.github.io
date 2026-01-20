@@ -7,7 +7,6 @@ description: The Queen’s Gambit teaches that progress is rarely about clinging
 image: /assets/img/uploads/chess.jpeg
 optimized_image: /assets/img/uploads/chess.jpeg
 tags:
-  - css
   - tips
 author: awinter
 ---
