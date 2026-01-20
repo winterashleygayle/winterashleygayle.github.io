@@ -2,12 +2,13 @@
 layout: page
 menu: false
 date: '2020-02-27 01:53:59'
-title: About
+title: Ashley Winter
 description: Some description.
 permalink: /about/
 ---
 
-<img src="/assets/img/uploads/ashley.jpg" alt="ashley">
+<img src="/assets/img/uploads/ashley.jpg" alt="ashley" style="width:300px; height:auto;">
+
 
 
 # About
