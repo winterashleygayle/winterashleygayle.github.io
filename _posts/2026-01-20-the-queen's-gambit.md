@@ -6,7 +6,7 @@ subtitle:
 description: The Queen’s Gambit teaches that progress is rarely about clinging to what’s safe.
 image: /assets/img/uploads/chess.jpeg
 optimized_image: /assets/img/uploads/chess.jpeg
-category: the game of life
+category: it's just a game
 tags:
   - tips
 author: awinter
