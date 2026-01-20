@@ -7,7 +7,7 @@ description: inside barn photograph
 image: /assets/img/uploads/threshold.jpg
 optimized_image: /assets/img/uploads/threshold.jpg
 
-category: blog
+category: photography
 tags:
   - welcome
   - blog
