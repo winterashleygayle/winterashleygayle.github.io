@@ -6,7 +6,7 @@ subtitle: a man and his dog
 description: They walked the same road every morning...
 image: /assets/img/uploads/mandog.jpeg
 optimized_image: /assets/img/uploads/mandog.jpeg
-category: photography
+category: life
 tags:
   - dogs
 
