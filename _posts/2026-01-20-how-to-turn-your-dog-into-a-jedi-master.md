@@ -4,8 +4,8 @@ layout: post
 title: Liminality
 subtitle: the inbetween state 
 description: lost in space 
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
+image: /assets/img/uploads/airplane.jpeg
+optimized_image: /assets/img/uploads/airplane.jpeg
 category: tutorial
 tags:
   - jedi
