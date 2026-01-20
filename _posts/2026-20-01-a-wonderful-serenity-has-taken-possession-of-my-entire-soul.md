@@ -4,8 +4,8 @@ layout: post
 title: A wonderful serenity has taken possession of my entire soul
 subtitle: a man and his dog 
 description: They walked the same road every morning...
-image: /assets/img/uploads/mandog.jpg
-optimized_image: /assets/img/uploads/mandog.jpg
+image: /assets/img/uploads/mandog.jpeg
+optimized_image: /assets/img/uploads/mandog.jpeg
 category: photography
 tags:
   - dogs
