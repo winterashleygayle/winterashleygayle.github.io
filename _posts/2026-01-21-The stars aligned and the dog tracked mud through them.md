@@ -1,5 +1,5 @@
 ---
-date: 2026-01-22 12:00:00
+date: 2026-01-21 12:00:00
 layout: post
 title: The stars aligned and the dog tracked mud through them.
 subtitle: 
@@ -13,5 +13,6 @@ tags:
   - passion
 author: awinter
 ---
+
 
 
