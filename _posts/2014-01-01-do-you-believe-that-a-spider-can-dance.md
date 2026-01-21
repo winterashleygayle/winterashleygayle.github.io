@@ -5,8 +5,8 @@ title: Where does my body still hold the force of what passed through me?
 subtitle: 
 description: Every wound has a trajectory; healing is learning where the damage traveled.
 category: psychology
-image: /assets/img/uploads/emotionwound.png
-optimized_image: /assets/img/uploads/emotionalwound.png
+image: /assets/img/uploads/emotionwound.PNG
+optimized_image: /assets/img/uploads/emotionalwound.PNG
 tags:
   - fate
 
@@ -119,5 +119,6 @@ It becomes a site of wisdom, sensitivity, and depth.
 
 This is not romantic suffering.
 This is earned coherence.
+
 
 
