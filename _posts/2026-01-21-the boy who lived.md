@@ -1,16 +1,19 @@
 ---
-date: 2026-01-21
+date: 2026-01-21 
 layout: post
-title: the boy
-subtitle: 
-description: my spirit helper 
+title: "The boy"
+subtitle: ""
+description: "My spirit helper"
 image: /assets/img/uploads/christian.jpeg
 optimized_image: /assets/img/uploads/christian.jpeg
-category: loss
+categories:
+  - loss
 tags:
   - family
-author: awinter78
+author: awinter
 ---
+
+
 
 
 
