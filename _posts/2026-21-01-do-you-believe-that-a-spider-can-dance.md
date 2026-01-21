@@ -1,5 +1,5 @@
 ---
-date: 2026-01-21 12:30:01 -0800
+date: 2026-01-21 12:30:01 
 layout: post
 title: "Where does my body still hold the force of what passed through me?"
 subtitle: ""
@@ -120,6 +120,7 @@ It becomes a site of wisdom, sensitivity, and depth.
 
 This is not romantic suffering.
 This is earned coherence.
+
 
 
 
