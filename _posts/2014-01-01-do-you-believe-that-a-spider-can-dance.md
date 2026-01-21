@@ -1,126 +1,122 @@
 ---
-date: 2017-06-08 12:00:00
+date: 2026-01-021 12:00:00
 layout: post
-title: Do you believe that a spider can dance?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-category: travel
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824306/theme13_dshbqx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824306/theme13_dshbqx.jpg
+title: Where does my body still hold the force of what passed through me?
+subtitle: 
+description: Every wound has a trajectory; healing is learning where the damage traveled.
+category: psychology
+image: /assets/img/uploads/emotionwound.png
+optimized_image: /assets/img/uploads/emotionalwound.png
 tags:
   - fate
-  - travel
-author: mranderson
+  - 
+author: awinter
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+The Anatomy of an Emotional Wound
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+An emotional wound behaves much like a gunshot wound.
+Not because it is dramatic — but because it is precise, penetrating, and disruptive to every system it touches.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+A gunshot wound is not defined solely by the entry point. Its danger lies in trajectory — the unseen damage done as the force moves inward, tearing through tissue, shattering structures, disorganizing what once functioned seamlessly together. Emotional trauma operates the same way. The event is only the beginning. The real injury unfolds inside.
 
-## Inline HTML elements
+Entry Wound: The Moment of Impact
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Every emotional wound has an entry point — a betrayal, abandonment, violation, loss, humiliation, or prolonged exposure to danger. This is the visible moment people point to and say, “That’s when it happened.”
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+But clinically, an entry wound often looks deceptively small.
+In both gunshot trauma and emotional trauma, the external mark rarely reflects the internal devastation.
 
-Most of these elements are styled by browsers with few modifications on our part.
+Psychologically, this is where the nervous system first fractures. The brain registers threat. The body mobilizes survival. Time distorts. Memory fragments. Meaning collapses.
 
-# Heading 1
+This is acute psychological shock.
 
-## Heading 2
+Cavitation: Where the Real Damage Occurs
 
-### Heading 3
+In ballistics, cavitation refers to the temporary cavity created as a bullet travels through tissue, violently displacing everything around it. Structures not directly touched are still damaged by the force.
 
-#### Heading 4
+Emotionally, cavitation is where identity fractures.
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Beliefs about safety, self-worth, trust, time, love, and belonging are pulled into the wound and destabilized. Even areas of life unrelated to the original event — relationships, ambition, creativity, embodiment — begin to malfunction.
 
-## Code
+This is why people say, “I don’t recognize myself anymore.”
+The bullet didn’t just hit one place. It disrupted the whole system.
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+Pathologically, this is where trauma becomes stored:
 
-```js
-// Example can be run directly in your JavaScript console
+In the amygdala as hypervigilance
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+In the hippocampus as fragmented memory
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+In the body as tension, collapse, dissociation, or chronic pain
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+This is not weakness. This is biology doing its best to survive the unsurvivable.
 
-## Lists
+Secondary Complications: Infection, Necrosis, and Scar Tissue
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+Untreated gunshot wounds don’t simply “heal with time.” They fester. Tissue dies. Infection spreads.
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+Emotional wounds behave the same way.
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+When trauma is ignored, minimized, or spiritually bypassed, it does not disappear. It becomes:
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+Depression (psychic shutdown)
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+Anxiety (persistent threat response)
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+Compulsions and addictions (self-administered anesthesia)
 
-## Images
+Relationship reenactments (the wound trying to be witnessed)
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+Somatic symptoms (the body speaking when words failed)
 
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
+Scar tissue forms — rigid coping strategies that once protected but now restrict movement, intimacy, and expression.
 
-## Tables
+Scar tissue is not failure.
+It is adaptation that outlived its usefulness.
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Imaging the Wound: Awareness as Diagnosis
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
+No surgeon operates without imaging.
+No healer works without awareness.
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+Psychologically, insight is the MRI. Somatic awareness is the CT scan. Pattern recognition is the lab work. When a person begins to see the wound — not as identity, not as destiny, but as injury — healing becomes possible.
+
+This is the moment shame loosens its grip.
+
+Because wounds are not moral failures.
+They are physiological and psychological responses to overwhelming force.
+
+Healing Modalities: How the Body and Psyche Repair
+
+True healing mirrors trauma-informed medicine, not motivation culture.
+
+Effective modalities work with the nervous system, not against it:
+
+Somatic therapies (EMDR, SE, breathwork, movement) to discharge stored survival energy
+
+Depth psychology to restore narrative continuity and meaning
+
+Relational repair to re-teach safety through attuned connection
+
+Ritual and symbolic work to integrate loss, anger, grief, and power
+
+Time — not passive time, but engaged, compassionate time
+
+Healing is not erasing the wound.
+It is restoring circulation around it.
+
+The Final Outcome: Regeneration, Not Erasure
+
+In medicine, the goal is not to make it as if the wound never happened. The goal is function. Strength. Integrity. Adaptation without rigidity.
+
+The healed emotional wound does not vanish.
+It becomes organized.
+
+It no longer bleeds into the present.
+It no longer defines perception.
+It becomes a site of wisdom, sensitivity, and depth.
+
+This is not romantic suffering.
+This is earned coherence.
+
