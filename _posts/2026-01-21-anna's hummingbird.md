@@ -4,8 +4,8 @@ layout: post
 title: Teeny Tiny Tail Feathers
 subtitle: 
 description: Ahhh, the Anna’s hummingbird — tiny monarch of sparkle and attitude. 💖🐦
-image: /assets/img/uploads/tailfeather.png
-optimized_image: /assets/img/uploads/tailfeather.png
+image: /assets/img/uploads/tailfeathers.png
+optimized_image: /assets/img/uploads/tailfeathers.png
 category: css
 tags:
   - birds
