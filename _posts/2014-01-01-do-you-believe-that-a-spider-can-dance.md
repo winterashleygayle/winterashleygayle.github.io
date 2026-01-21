@@ -9,7 +9,7 @@ image: /assets/img/uploads/emotionwound.png
 optimized_image: /assets/img/uploads/emotionalwound.png
 tags:
   - fate
-  - 
+
 author: awinter
 ---
 
@@ -119,4 +119,5 @@ It becomes a site of wisdom, sensitivity, and depth.
 
 This is not romantic suffering.
 This is earned coherence.
+
 
