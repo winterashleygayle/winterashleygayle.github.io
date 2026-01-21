@@ -1,19 +1,18 @@
 ---
-date: 2026-01-21 12:30:01
-
+date: 2026-01-21 12:30:01 -0800
 layout: post
-title: Where does my body still hold the force of what passed through me?
-subtitle: 
-description: Every wound has a trajectory; healing is learning where the damage traveled.
-category: psychology
+title: "Where does my body still hold the force of what passed through me?"
+subtitle: ""
+description: "Every wound has a trajectory; healing is learning where the damage traveled."
+categories:
+  - psychology
 image: /assets/img/uploads/emotionalwound.png
 optimized_image: /assets/img/uploads/emotionalwound.png
-
 tags:
   - fate
-
 author: awinter
 ---
+
 
 The Anatomy of an Emotional Wound
 
@@ -121,6 +120,7 @@ It becomes a site of wisdom, sensitivity, and depth.
 
 This is not romantic suffering.
 This is earned coherence.
+
 
 
 
