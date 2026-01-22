@@ -6,6 +6,7 @@ description: to be a rock and roll...
 image: /assets/img/uploads/paradise-poster.jpeg
 optimized_image: /assets/img/uploads/paradise-poster.jpeg
 video: /assets/img/uploads/paradise.mp4
+show_image: false
 category: trauma healing
 tags:
   - trauma
