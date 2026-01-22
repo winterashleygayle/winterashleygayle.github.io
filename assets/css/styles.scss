@@ -17,3 +17,9 @@
 .bar-header .logo a{
   line-height:1.1;
 }
+
+/* Video wrapper – limits width of inline videos */
+.video-wrap {
+  max-width: 720px;   /* try 640px, 720px, or 800px */
+  margin: 0 auto 32px auto;
+}
