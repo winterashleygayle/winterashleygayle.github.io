@@ -68,17 +68,15 @@ Untreated gunshot wounds do not simply “heal with time.” They fester. Tissue
 
 Emotional wounds behave the same way.
 
-When trauma is ignored, minimized, or spiritually bypassed, it does not disappear. It becomes:
+When trauma is ignored, minimized, or spiritually bypassed, it does not disappear. 
+It becomes:
 
-Depression (psychic shutdown)
+- Depression (psychic shutdown)
+- Anxiety (persistent threat response)
+- Compulsions and addictions (self-administered anesthesia)
+- Relationship reenactments
+- Somatic symptoms(the body speaking when words failed)
 
-Anxiety (persistent threat response)
-
-Compulsions and addictions (self-administered anesthesia)
-
-Relationship reenactments (the wound seeking recognition)
-
-Somatic symptoms (the body speaking when words failed)
 
 Scar tissue forms—rigid coping strategies that once protected, but now restrict movement, intimacy, and expression.
 
@@ -145,3 +143,4 @@ It becomes a site of wisdom, sensitivity, and depth.
 
 This is not romantic suffering.
 This is earned coherence.
+
