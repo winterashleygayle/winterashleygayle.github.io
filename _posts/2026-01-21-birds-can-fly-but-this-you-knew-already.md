@@ -17,12 +17,8 @@ author: awinter
 
 
 # Heading 1
-
-## Heading 2
 Jonathon Livingston Seagull
-### Heading 3
 
-#### Heading 4
 
 
 Jonathan Livingston Seagull would not recognize himself today as a bird.
