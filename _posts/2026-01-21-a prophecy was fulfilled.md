@@ -1,5 +1,5 @@
 ---
-date: 2026-21-01 
+date: 2026-01-21
 layout: post
 title: A prophecy was fulfilled and no one remembered to water the plants.
 subtitle: 
@@ -11,6 +11,7 @@ tags:
   - story
 author: awinter
 ---
+
 
 
 
