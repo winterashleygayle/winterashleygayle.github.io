@@ -14,14 +14,14 @@ author: awinter
 ---
 
 
-The Anatomy of an Emotional Wound
+## The Anatomy of an Emotional Wound
 
 An emotional wound behaves much like a gunshot wound.
 Not because it is dramatic — but because it is precise, penetrating, and disruptive to every system it touches.
 
 A gunshot wound is not defined solely by the entry point. Its danger lies in trajectory — the unseen damage done as the force moves inward, tearing through tissue, shattering structures, disorganizing what once functioned seamlessly together. Emotional trauma operates the same way. The event is only the beginning. The real injury unfolds inside.
 
-Entry Wound: The Moment of Impact
+### Entry Wound: The Moment of Impact
 
 Every emotional wound has an entry point — a betrayal, abandonment, violation, loss, humiliation, or prolonged exposure to danger. This is the visible moment people point to and say, “That’s when it happened.”
 
@@ -120,6 +120,7 @@ It becomes a site of wisdom, sensitivity, and depth.
 
 This is not romantic suffering.
 This is earned coherence.
+
 
 
 
