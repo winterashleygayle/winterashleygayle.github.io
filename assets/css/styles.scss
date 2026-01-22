@@ -18,8 +18,14 @@
   line-height:1.1;
 }
 
-/* Video wrapper – limits width of inline videos */
+/* Make inline videos smaller + centered */
 .video-wrap {
-  max-width: 720px;   /* try 640px, 720px, or 800px */
+  max-width: 720px;
   margin: 0 auto 32px auto;
+}
+
+.video-wrap video {
+  width: 100% !important;
+  height: auto !important;
+  display: block;
 }
