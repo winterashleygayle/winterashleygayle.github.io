@@ -3,8 +3,8 @@ date: 2026-01-22
 layout: post
 title: The Girl Who Lived
 description: to be a rock and roll...
-image: /assets/img/uploads/paradise-poster.jpeg
-optimized_image: /assets/img/uploads/paradise-poster.jpeg
+image: /assets/img/uploads/ashkid.jpeg
+optimized_image: /assets/img/uploads/ashkid.jpeg
 show_image: true
 category: trauma healing
 tags:
@@ -97,6 +97,31 @@ There is still so much shame attached to how people survive childhood trauma. Co
 </div>
 
 
+There are children who grow up inside toxic family systems, places where adults may provide food, shelter, and rules, yet fail to offer protection in the realms that shape a soul: emotional safety, energetic boundaries, and the freedom to exist without being consumed. These children come into the world unguarded in the places that matter most. Unprotected from hungry ghosts: the wounded, grasping, unhealed forces in others that feed on innocence and drain a child’s need to be seen, valued, and loved.
+
+A hungry ghost doesn’t always look like a monster. Sometimes it looks like a parent who treats their child as emotional supply… a caregiver who cannot regulate their own pain… a family system so starved for validation that it cannibalizes the most sensitive member. Toxic systems are built on this hunger. And the brightest children, the intuitive ones, the empaths, the quiet observers- shine like lanterns in the dark. Their light becomes nourishment for those who should have been their protectors. And no one ever tells them they are allowed to say no.
+
+So the child learns to survive by disappearing. Fragmenting. Going quiet. Burying the softest parts of themselves in a deep inner well, a place so sacred, so hidden, that even they forget it exists. The child becomes small to stay safe. They fold their wings so the ghosts won’t notice they were born to fly.
+
+But a soul does not forget itself.
+
+Eventually, life calls us back down into that well, not as the scared child we were, but as the adult self who dares to descend. The adult who shows up with a lantern, a spine, and a vow: I’m here now. I will not abandon you.
+
+This is the moment the true savior appears, not in the form of an external rescuer, not in the form of a healer or a guide, but through the emergence of our own mature, sovereign self.
+
+The one who: Sets boundaries the child was never allowed to set. Speaks the truth the child choked down. Sends the hungry ghosts away…firmly, without apology. Honors the innocence that was once exploited or ignored. Retrieves the lost pieces with tenderness and ferocity.
+
+In the quiet depths, the child who thought no one was coming finally hears footsteps. They look up. And for the first time, someone they trust reaches out a hand- their future self.
+
+This is reclamation.
+This is soul retrieval.
+This is what it means to become your own protector.
+
+Because in the end, it is the adult self: braver, wiser, fiercer than we once imagined who descends into the very places we once fled… and declares the truth the child needed most:
+
+<blockquote class="pull-quote">
+“You were never meant to face the hungry ghosts alone. I am here now. And I will protect you. You are remembered. You are wanted. You are mine.”
+</blockquote>
 
 
 When a child grows up without safety, their nervous system learns to create it however it can. Rocking, dissociation, daydreaming, hyper independence, people pleasing, emotional numbing, and withdrawal are not signs of weakness. They are signs of intelligence and resilience. They are the body and mind working together to protect life.
