@@ -13,13 +13,13 @@ tags:
 author: awinter
 ---
 
-They walked the same road every morning, the man and his dog, long before the town woke and long after the stars had begun to loosen their grip on the sky. The road was nothing remarkable to anyone else—a thin ribbon of asphalt curling past fields, cottonwoods, and an old river that had forgotten its own urgency—but to them it was a passage, a quiet agreement renewed day after day.
+They walked the same road every morning, the man and his dog, long before the town woke and long after the stars had begun to loosen their grip on the sky. The road was nothing remarkable to anyone else, a thin ribbon of asphalt curling past fields, cottonwoods, and an old river that had forgotten its own urgency but to them it was a passage, a quiet agreement renewed day after day.
 
 The man had once been someone other people recognized. His name used to arrive before he did. Doors opened faster. Conversations bent in his direction. But time, as it does, had asked for its due. Loss came not as a single event but as an erosion—work that dissolved, friendships that thinned, a marriage that left without spectacle. What remained was not bitterness, but a kind of weightless silence, the sort that presses hardest in the early hours.
 
 The dog did not know any of this.
 
-The dog knew only that the man rose each morning, that his hands shook less when they held the leash, and that the road unfurled differently when they walked it together. The dog knew the language of pauses—the moment when the man stopped to watch fog lift from the river, the way his breath changed when memories surfaced like stones beneath shallow water. The dog responded by sitting, by leaning his body just enough to say, I am here. We are not late. Nothing is chasing us.
+The dog knew only that the man rose each morning, that his hands shook less when they held the leash, and that the road unfurled differently when they walked it together. The dog knew the language of pauses, the moment when the man stopped to watch fog lift from the river, the way his breath changed when memories surfaced like stones beneath shallow water. The dog responded by sitting, by leaning his body just enough to say, I am here. We are not late. Nothing is chasing us.
 
 They had found each other years earlier at a shelter on the edge of town. The dog had been listed as “older,” which is another word for “passed over.” He had gray in his muzzle and a scar above one eye that suggested a story no one had bothered to write down. The man, standing in the echoing hallway with its antiseptic floors and well-meaning volunteers, had knelt without thinking. The dog had rested his head against the man’s knee as if this had always been the plan.
 
