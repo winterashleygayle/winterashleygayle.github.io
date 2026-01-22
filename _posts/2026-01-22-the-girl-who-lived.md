@@ -11,16 +11,16 @@ tags:
 author: awinter
 paginate: true
 ---
-<video 
-  autoplay 
-  muted 
-  loop 
+<video
+  muted
+  loop
   playsinline
   controls
   preload="metadata"
   style="width:100%; border-radius:12px;">
-  <source src="{{ site.baseurl }}{{ page.video }}" type="video/mp4">
+  <source src="{{ page.video | relative_url }}" type="video/mp4">
 </video>
+
 
 
 ## 𝐓𝐡𝐞 𝐆𝐢𝐫𝐥 𝐖𝐡𝐨 𝐋𝐞𝐚𝐫𝐧𝐞𝐝 𝐭𝐨 𝐑𝐨𝐜𝐤 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝
