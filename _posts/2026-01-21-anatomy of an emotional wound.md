@@ -36,7 +36,7 @@ Psychologically, this is where the nervous system fractures. The brain registers
 
 This is acute psychological shock.
 
-Cavitation: Where the Real Damage Occurs
+### Cavitation: Where the Real Damage Occurs
 
 In ballistics, cavitation refers to the temporary cavity created as a bullet travels through tissue, violently displacing everything around it. Structures not directly touched are still damaged by the force.
 
@@ -143,4 +143,5 @@ It becomes a site of wisdom, sensitivity, and depth.
 
 This is not romantic suffering.
 This is earned coherence.
+
 
