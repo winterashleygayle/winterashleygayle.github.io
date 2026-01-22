@@ -53,11 +53,9 @@ It disrupted the whole system.
 
 Pathologically, this is where trauma becomes encoded:
 
-In the amygdala as hypervigilance
-
-In the hippocampus as fragmented or time-collapsed memory
-
-In the body as tension, collapse, dissociation, or chronic pain
+- In the amygdala as hypervigilance
+- In the hippocampus as fragmented or time-collapsed memory
+- In the body as tension, collapse, dissociation, or chronic pain
 
 This is not weakness.
 This is biology doing its best to survive the unsurvivable.
@@ -137,6 +135,7 @@ It becomes a site of wisdom, sensitivity, and depth.
 
 This is not romantic suffering.
 This is earned coherence.
+
 
 
 
