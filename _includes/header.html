@@ -7,8 +7,12 @@
             {% if site.use_logo %}
                 {% include logo.html %}
             {% else %}
-                {{ site.name }} <span class="version">{{ site.version }}</span>
-            {% endif %}
+                <span class="site-name">{{ site.name }}</span>
+                {% if site.tagline %}
+                    <span class="site-tagline">{{ site.tagline }}</span>
+                {% endif %}
+                <span class="version">{{ site.version }}</span>
+             {% endif %}
         </a>
     </h1>
     <a id="search" class="dosearch" role="button">
