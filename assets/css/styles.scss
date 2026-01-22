@@ -18,32 +18,3 @@
   line-height:1.1;
 }
 
-.video-hero {
-  max-width: 900px;
-  margin: 0 auto 32px auto;
-  border-radius: 12px;
-  overflow: hidden;
-  background: #000;
-  aspect-ratio: 16 / 9; /* forces a cinematic window */
-}
-
-.video-hero video {
-  width: 100% !important;
-  height: 100% !important;
-  object-fit: cover !important; /* crops the vertical video */
-  display: block !important;
-}
-
-
-
-/* If a post has a video, hide the auto-inserted header/cover image on the post page */
-.post-page img,
-.post img,
-article img {
-  /* don’t hide ALL images forever — we’ll narrow it down below */
-}
-
-/* Hide the FIRST big image that the theme injects at top of the post */
-article img:first-of-type {
-  display: none !important;
-}
