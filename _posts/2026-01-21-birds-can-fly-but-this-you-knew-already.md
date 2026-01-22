@@ -45,7 +45,9 @@ Jonathan learns that being authentic doesn’t mean announcing who you are. It m
 
 Eventually, others notice. Not because Jonathan convinces them, but because coherence is visible. Some feel inspired. Some feel threatened. Some dismiss him as unrealistic. But a few, quietly suffering in their own conformity, recognize something familiar. Permission.
 
-Jonathan doesn’t save them. He doesn’t teach them how to fly.
+Jonathan doesn’t save them.
+
+He doesn’t teach them how to fly.
 
 He simply demonstrates what happens when you stop pretending gravity is universal.
 
