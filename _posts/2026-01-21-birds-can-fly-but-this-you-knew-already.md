@@ -18,8 +18,8 @@ author: awinter
 
 
 
-#Heading 1
-Jonathon Livingston Seagull
+## Jonathan Livingston Seagull
+
 
 
 
