@@ -5,24 +5,12 @@ title: The Girl Who Lived
 description: to be a rock and roll...
 image: /assets/img/uploads/paradise-poster.jpeg
 optimized_image: /assets/img/uploads/paradise-poster.jpeg
-video: /assets/img/uploads/paradise.mp4
 show_image: false
 category: trauma healing
 tags:
   - trauma
 author: awinter
 ---
-
-
-<div class="video-hero">
-  <video muted loop playsinline controls preload="metadata">
-    <source src="{{ page.video | relative_url }}" type="video/mp4">
-  </video>
-</div>
-
-
-
-
 
 
 
