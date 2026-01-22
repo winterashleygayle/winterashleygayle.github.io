@@ -2,7 +2,7 @@
 date: 2026-01-21 12:30:01 
 layout: post
 title: "Where does my body still hold the force of what passed through me?"
-subtitle: "the anatomy of an emotional wound"
+subtitle: "The Anatomy of an Emotional Wound"
 description: "Every wound has a trajectory; healing is learning where the damage traveled."
 categories:
   - psychology
@@ -14,7 +14,7 @@ author: awinter
 ---
 
 # Every wound has a trajectory; healing is learning where the damage traveled.
-## The Anatomy of an Emotional Wound
+
 
 An emotional wound behaves much like a gunshot wound.
 Not because it is dramatic, but because it is precise, penetrating, and disruptive to every system it touches.
@@ -135,6 +135,7 @@ It becomes a site of wisdom, sensitivity, and depth.
 
 This is not romantic suffering.
 This is earned coherence.
+
 
 
 
