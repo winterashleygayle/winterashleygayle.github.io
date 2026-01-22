@@ -14,11 +14,12 @@ author: awinter
 ---
 
 
-<div class="video-wrap">
+<div class="video-hero">
   <video muted loop playsinline controls preload="metadata">
     <source src="{{ page.video | relative_url }}" type="video/mp4">
   </video>
 </div>
+
 
 
 
