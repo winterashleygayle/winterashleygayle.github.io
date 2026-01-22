@@ -1,4 +1,4 @@
----
+
 ---
 @import "jekflix";
 
@@ -18,18 +18,22 @@
   line-height:1.1;
 }
 
-/* Smaller vertical video (keeps full frame) */
-.video-wrap {
-  max-width: 420px;          /* try 360 / 420 / 480 */
-  margin: 0 auto 28px auto;
+.video-hero {
+  max-width: 900px;
+  margin: 0 auto 32px auto;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #000;
+  aspect-ratio: 16 / 9; /* forces a cinematic window */
 }
 
-.video-wrap video {
+.video-hero video {
   width: 100% !important;
-  height: auto !important;
+  height: 100% !important;
+  object-fit: cover !important; /* crops the vertical video */
   display: block !important;
-  border-radius: 12px;
 }
+
 
 
 /* If a post has a video, hide the auto-inserted header/cover image on the post page */
