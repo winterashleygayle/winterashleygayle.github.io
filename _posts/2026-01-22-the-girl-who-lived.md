@@ -87,7 +87,7 @@ Some save cities.
 
 This one learned how to rock herself through hell and lived to talk about it.
 
-## There is still so much shame attached to how people survive childhood trauma. Coping mechanisms are often misunderstood, judged, or pathologized, especially when they don’t look neat or socially acceptable. But these behaviors are not flaws. They are adaptations.
+#### There is still so much shame attached to how people survive childhood trauma. Coping mechanisms are often misunderstood, judged, or pathologized, especially when they don’t look neat or socially acceptable. But these behaviors are not flaws. They are adaptations.
 
 <div class="pause">
    Pause here. Breathe. Let the body catch up.
