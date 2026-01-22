@@ -87,7 +87,12 @@ Some save cities.
 
 This one learned how to rock herself through hell and lived to talk about it.
 
-### There is still so much shame attached to how people survive childhood trauma. Coping mechanisms are often misunderstood, judged, or pathologized, especially when they don’t look neat or socially acceptable. But these behaviors are not flaws. They are adaptations.
+## There is still so much shame attached to how people survive childhood trauma. Coping mechanisms are often misunderstood, judged, or pathologized, especially when they don’t look neat or socially acceptable. But these behaviors are not flaws. They are adaptations.
+
+<div class="pause">
+  ### Pause here. Breathe. Let the body catch up.
+</div>
+
 
 When a child grows up without safety, their nervous system learns to create it however it can. Rocking, dissociation, daydreaming, hyper independence, people pleasing, emotional numbing, and withdrawal are not signs of weakness. They are signs of intelligence and resilience. They are the body and mind working together to protect life.
 
