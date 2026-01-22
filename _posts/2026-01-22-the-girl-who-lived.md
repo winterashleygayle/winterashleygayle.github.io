@@ -3,12 +3,15 @@ date: 2026-01-22
 layout: post
 title: The Girl Who Lived
 description: to be a rock and roll...
+image: /assets/img/uploads/paradise-poster.jpeg
+optimized_image: /assets/img/uploads/paradise-poster.jpeg
 video: /assets/img/uploads/paradise.mp4
 category: trauma healing
 tags:
   - trauma
 author: awinter
 ---
+
 
 <div class="video-wrap">
   <video
