@@ -12,7 +12,7 @@ tags:
   - photography
 author: awinter
 ---
-I will not let you settle for a shallow version of peace when your soul is capable of something more honest, more alive, more whole. 
+## I will not let you settle for a shallow version of peace when your soul is capable of something more honest, more alive, more whole. 
 
 
 
