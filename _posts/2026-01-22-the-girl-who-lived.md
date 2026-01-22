@@ -15,7 +15,7 @@ author: awinter
 
 
 
-## 𝐓𝐡𝐞 𝐆𝐢𝐫𝐥 𝐖𝐡𝐨 𝐋𝐞𝐚𝐫𝐧𝐞𝐝 𝐭𝐨 𝐑𝐨𝐜𝐤 𝐭𝐡𝐞 𝐖𝐨𝐫𝐥𝐝
+### The Child Who Held her World Steady
 
 There was once a little girl who learned very early that the world was not always safe.
 
