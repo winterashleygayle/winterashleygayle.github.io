@@ -10,10 +10,18 @@ tags:
 author: awinter
 ---
 
-<video muted loop playsinline controls preload="metadata"
-  style="width:100%; border-radius:12px;">
-  <source src="{{ page.video | relative_url }}" type="video/mp4">
-</video>
+<div class="video-wrap">
+  <video
+    muted
+    loop
+    playsinline
+    controls
+    preload="metadata"
+    style="width:100%; border-radius:12px;">
+    <source src="{{ page.video | relative_url }}" type="video/mp4">
+  </video>
+</div>
+
 
 
 
