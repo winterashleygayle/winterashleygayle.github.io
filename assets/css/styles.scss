@@ -29,3 +29,15 @@
   height: auto !important;
   display: block;
 }
+
+/* If a post has a video, hide the auto-inserted header/cover image on the post page */
+.post-page img,
+.post img,
+article img {
+  /* don’t hide ALL images forever — we’ll narrow it down below */
+}
+
+/* Hide the FIRST big image that the theme injects at top of the post */
+article img:first-of-type {
+  display: none !important;
+}
