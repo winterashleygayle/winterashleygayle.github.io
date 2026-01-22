@@ -99,21 +99,15 @@ This is the moment shame loosens its grip.
 Because wounds are not moral failures.
 They are physiological and psychological responses to overwhelming force.
 
-Healing Modalities: How the Body and Psyche Repair
+### Healing Modalities: How the Body and Psyche Repair
 
-True healing mirrors trauma-informed medicine, not motivation culture.
-
-Effective modalities work with the nervous system, not against it:
-
-Somatic therapies (EMDR, SE, breathwork, movement) to discharge stored survival energy
-
-Depth psychology to restore narrative continuity and meaning
-
-Relational repair to re-teach safety through attuned connection
-
-Ritual and symbolic work to integrate loss, anger, grief, and power
-
-Time—not passive time, but engaged, compassionate time
+- True healing mirrors trauma-informed medicine, not motivation culture.
+- Effective modalities work with the nervous system, not against it:
+- Somatic therapies (EMDR, SE, breathwork, movement) to discharge stored survival energy
+- Depth psychology to restore narrative continuity and meaning
+- Relational repair to re-teach safety through attuned connection
+- Ritual and symbolic work to integrate loss, anger, grief, and power
+- Time—not passive time, but engaged, compassionate time
 
 Healing is not erasing the wound.
 It is restoring circulation around it.
@@ -143,5 +137,6 @@ It becomes a site of wisdom, sensitivity, and depth.
 
 This is not romantic suffering.
 This is earned coherence.
+
 
 
