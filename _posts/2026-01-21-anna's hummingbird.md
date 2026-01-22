@@ -22,7 +22,7 @@ An Anna’s hummingbird appeared and hovered in front of her face, so close she 
 
 The bird darted to a flower, then returned to hover again, as if to say:
 
-“I burn more energy than almost any creature alive, and still, I choose sweetness.”
+### “I burn more energy than almost any creature alive, and still, I choose sweetness.”
 
 The woman noticed how the bird’s pink throat flashed only when it caught the light at just the right angle. Not always visible. Not forced. Beauty revealed by presence, not striving.
 
