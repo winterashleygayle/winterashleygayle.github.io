@@ -18,17 +18,19 @@
   line-height:1.1;
 }
 
-/* Make inline videos smaller + centered */
+/* Smaller vertical video (keeps full frame) */
 .video-wrap {
-  max-width: 720px;
-  margin: 0 auto 32px auto;
+  max-width: 420px;          /* try 360 / 420 / 480 */
+  margin: 0 auto 28px auto;
 }
 
 .video-wrap video {
   width: 100% !important;
   height: auto !important;
-  display: block;
+  display: block !important;
+  border-radius: 12px;
 }
+
 
 /* If a post has a video, hide the auto-inserted header/cover image on the post page */
 .post-page img,
