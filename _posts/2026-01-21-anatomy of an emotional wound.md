@@ -13,7 +13,7 @@ tags:
 author: awinter
 ---
 
-# Every wound has a trajectory; healing is learning where the damage traveled.
+# Every wound has a trajectory; Healing is learning where the damage traveled.
 
 
 An emotional wound behaves much like a gunshot wound.
@@ -135,6 +135,7 @@ It becomes a site of wisdom, sensitivity, and depth.
 
 This is not romantic suffering.
 This is earned coherence.
+
 
 
 
