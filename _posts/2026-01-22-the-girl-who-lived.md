@@ -94,6 +94,8 @@ This one learned how to rock herself through hell and lived to talk about it.
 </div>
 
 
+
+
 When a child grows up without safety, their nervous system learns to create it however it can. Rocking, dissociation, daydreaming, hyper independence, people pleasing, emotional numbing, and withdrawal are not signs of weakness. They are signs of intelligence and resilience. They are the body and mind working together to protect life.
 
 Shame silences this truth. It teaches survivors to hide the very tools that helped them endure. It turns survival into something to be embarrassed by rather than honored. Breaking that stigma matters because healing cannot happen in secrecy or self rejection. Healing begins when we understand that coping mechanisms are not who someone is. They are what someone needed.
