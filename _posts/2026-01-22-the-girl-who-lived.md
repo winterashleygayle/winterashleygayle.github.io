@@ -14,16 +14,11 @@ author: awinter
 
 
 <div class="video-wrap">
-  <video
-    muted
-    loop
-    playsinline
-    controls
-    preload="metadata"
-    style="width:100%; border-radius:12px;">
+  <video muted loop playsinline controls preload="metadata">
     <source src="{{ page.video | relative_url }}" type="video/mp4">
   </video>
 </div>
+
 
 
 
