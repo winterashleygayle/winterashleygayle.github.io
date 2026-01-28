@@ -82,5 +82,20 @@
   letter-spacing: 0.05em;
 }
 
+/* Center and constrain videos inside posts */
+.post-content video {
+  display: block;
+  max-width: 720px;   /* adjust this */
+  width: 100%;
+  margin: 2.5rem auto;
+  border-radius: 6px; /* optional, looks nice */
+}
+
+@media (min-width: 900px) {
+  .post-content video {
+    max-width: 680px;
+  }
+}
+
 
 
