@@ -2,9 +2,9 @@
 date: 2026-01-28
 layout: post
 title: Temperance 
-description: to be a rock and roll...balanced
+description: to be a rock and NOT roll...balanced
 image: /assets/img/uploads/Temperance.jpg
-show_image: true
+show_image: false
 category: temperment 
 tags:
   - change
