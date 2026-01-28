@@ -30,13 +30,6 @@
   border-bottom: 1px solid rgba(0,0,0,0.15);
 }
 
-.post-content h1,
-.post-content h2,
-.post-content h3 {
-  text-align: center;
-}
-
-
 .pull-quote{
   font-size: 1.35rem;
   line-height: 1.4;
@@ -77,9 +70,17 @@
     rgba(120, 150, 170, 0)
   );
 }
+
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+  text-align: center;
+}
 .post-title {
   text-align: center;
   margin: 2.5rem auto 1rem;
   letter-spacing: 0.05em;
 }
+
+
 
