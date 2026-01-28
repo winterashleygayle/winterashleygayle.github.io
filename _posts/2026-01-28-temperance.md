@@ -13,7 +13,7 @@ author: awinter
 
 ---
 
-<video autoplay muted loop playsinline class="post-video">
+<video autoplay muted loop playsinline controls class="post-video">
   <source src="/assets/img/uploads/tempanimatedmusic.mp4" type="video/mp4">
 </video>
 
