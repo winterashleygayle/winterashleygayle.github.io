@@ -17,7 +17,6 @@ author: awinter
   <source src="/assets/img/uploads/tempanimatedmusic.mp4" type="video/mp4">
 </video>
 
-<p class="sound-hint">Sound on recommended.</p>
 
 <div class="alchemy-symbol">△</div>
 
