@@ -86,16 +86,19 @@
 .post-content .post-video {
   display: block;
   width: 100%;
-  max-width: 600px;   /* adjust this */
-  max-height: 340px;  /* 👈 ADD THIS */
+  max-width: 600px;
+  aspect-ratio: 16 / 9;   /* 👈 controls height elegantly */
+  height: auto;
   margin: 2.5rem auto;
-  border-radius: 6px;  /* optional, looks nice */
-  object-fit: cover;  /* 👈 IMPORTANT */
+  border-radius: 6px;
+  object-fit: contain;   /* 👈 prevents head cutting */
+  background: #000;      /* fills any letterbox space */
 }
 
-@media (min-width: 900px) {
-  .post-content video {
-    max-width: 680px;
+@media (max-width: 600px) {
+  .post-content .post-video {
+    max-width: 100%;
+    aspect-ratio: 4 / 5;  /* more portrait-friendly */
   }
 }
 
