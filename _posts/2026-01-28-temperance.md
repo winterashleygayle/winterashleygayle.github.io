@@ -9,12 +9,13 @@ tags:
   - change
 author: awinter
 
+---
+
 <video autoplay muted loop playsinline controls style="width:100%; max-width:900px;">
   <source src="/assets/img/uploads/tempanimated.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
----
 
 
 # Temperance: Emotional Alchemy 
