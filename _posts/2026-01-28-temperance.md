@@ -49,6 +49,9 @@ When you say you don’t care how many friends you lose, that’s not apathy. Th
 ## 7. Why it feels like you’re “holding up a mirror”
 You are. And mirrors don’t cause distortion, they reveal it. People who are doing their own work usually respond with curiosity, respect, or quiet reflection. People who aren’t often respond with defensiveness, projection, or attempts to destabilize you. The reaction tells you more about where they are than where you are.
 
+<div class="alchemy-symbol">△</div>
+
+
 <blockquote class="pull-quote">
 The bottom line
 You’re not here to argue. You’re not here to convince. You’re not here to carry other people’s unprocessed material. You’re here to live in integrity with yourself. When that integrity disrupts others, that’s information, not an assignment.
@@ -59,4 +62,7 @@ And you’re right about one thing very clearly:
 You’re not shooting anyone in the foot.
 You’re just standing where you stand.
 What they do with that is theirs.
+
+<div class="alchemy-symbol">△</div>
+
 
