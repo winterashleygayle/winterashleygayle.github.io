@@ -1,5 +1,5 @@
 ---
-date: 2026-01-28 10:25:13
+date: 2026-01-27 10:25:13
 layout: post
 title: Smoke alert
 description: 
