@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/ashley.jpg
+photo: /assets/img/uploads/ashley.jpg
 name: ashley
 display_name: Ashley Winter
 position: Writer · Photographer · Myth-Maker
