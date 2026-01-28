@@ -13,10 +13,11 @@ author: awinter
 
 ---
 
-<video autoplay muted loop playsinline controls style="width:100%; max-width:900px;">
+<video autoplay muted loop playsinline class="post-video">
   <source src="/assets/img/uploads/tempanimatedmusic.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
+
+<p class="sound-hint">Sound on recommended.</p>
 
 <div class="alchemy-symbol">△</div>
 
