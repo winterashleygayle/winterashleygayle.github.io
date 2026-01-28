@@ -5,6 +5,7 @@ title: Temperance
 description: to be a rock and NOT roll...balanced
 image: /assets/img/uploads/Temperance.jpg
 show_image: false
+hide_image: true
 category: temperment 
 tags:
   - change
