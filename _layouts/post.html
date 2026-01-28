@@ -24,7 +24,6 @@
                 {% if page.image and paginator.activated == nil and page.show_image != false and page.hide_image != true %}
                 <img src="{{ page.image }}" alt="Featured image" class="post-cover">
                 {% endif %}
-                {% endif %}
 
                 {% include pagination-post.html progressBar=true %}
 
