@@ -83,12 +83,14 @@
 }
 
 /* Center and constrain videos inside posts */
-.post-content video {
+.post-content .post-video {
   display: block;
-  max-width: 600px;   /* adjust this */
   width: 100%;
+  max-width: 600px;   /* adjust this */
+  max-height: 340px;  /* 👈 ADD THIS */
   margin: 2.5rem auto;
-  border-radius: 6px; /* optional, looks nice */
+  border-radius: 6px;  /* optional, looks nice */
+  object-fit: cover;  /* 👈 IMPORTANT */
 }
 
 @media (min-width: 900px) {
