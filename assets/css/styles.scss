@@ -57,3 +57,17 @@
     rgba(180, 140, 90, 0)
   );
 }
+
+.alchemy-divider {
+  height: 1px;
+  width: 100%;
+  max-width: 680px;
+  margin: 3rem auto;
+  background: linear-gradient(
+    to right,
+    rgba(180, 140, 90, 0),
+    rgba(180, 140, 90, 0.6),
+    rgba(120, 150, 170, 0.6),
+    rgba(120, 150, 170, 0)
+  );
+}
