@@ -1,7 +1,7 @@
 ---
 date: 2026-01-28
 layout: post
-title: Temperance 
+title: TEMPERANCE
 description: to be a rock and NOT roll...balanced
 image: /assets/img/uploads/Temperance.jpg
 show_image: false
@@ -20,7 +20,7 @@ author: awinter
 
 <div class="alchemy-symbol">△</div>
 
-# Temperance: Emotional Alchemy 
+# Emotional Alchemy 
 In the Major Arcana, Temperance comes after upheaval and before embodiment. It often appears when someone has already been through chaos, loss, or inner reckoning and is now learning how to live well with what they’ve survived.
 
 <div class="alchemy-divider"></div>
