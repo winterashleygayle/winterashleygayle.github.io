@@ -64,7 +64,9 @@ He gestured out to sea.
 All those boats are other people, each on their own journey, each navigating storms, fog, and uncertainty.
 The girl watched the distant lights bobbing on the water.
 
-Your job is not to save them, he said. Not to chase them. Not to throw yourself into the sea.
+Your job is not to save them, he said. 
+Not to chase them. 
+Not to throw yourself into the sea.
 
 He paused, letting the truth settle.
 Your job is to stand where you are and shine.
