@@ -4,7 +4,7 @@ date: 2026-01-29
 layout: post
 title: The Girl in the Lighthouse
 subtitle:
-description: A shamanic journey into childhood, guidance, and the steady presence that watches from the edge of the dark.
+description: A shamanic journey, a lighthouse, and a guide that appeared when I didn’t know I needed one.
 image: /assets/img/uploads/lighthouse.jpeg
 category: spirit
 tags: family
@@ -16,9 +16,10 @@ author: awinter
 <div class="alchemy-symbol">△</div>
 
 # My Spirit Helper 
+## A shamanic journey, a lighthouse, and a guide that appeared when I didn’t know I needed one.
 ### The Girl in the Lighthouse
 
-Long ago, before I had language for it, there was a journey.
+Long ago, before I had language for it, I went on what they call a 'journey'.
 <div class="alchemy-divider"></div>
 
 It took place to the rhythm of a drum, that steady heartbeat that loosens time and opens the thin veil between worlds. A woman named Anna guided the journey then. She no longer practices Shamanism, and I do not know where life carried her, but in that moment she was exactly who she needed to be: a witness, a holder of the doorway. I hope she is well.
@@ -87,9 +88,23 @@ Glad you made it.
 
 In spirit, the message remains.
 
-He was not only glad she reached the top of the lighthouse that day.
-He was glad she became it.
 <div class="alchemy-divider"></div>
 
 
+# Shamanic Journey
+<div class="alchemy-symbol">△</div>
+“Okay, but what is that, really?”
 
+A shamanic journey is a guided, intentional inward experience, similar to meditation, visualization, or deep imagination, done while listening to steady rhythmic drumming.
+
+The drumbeat is not symbolic or ceremonial for effect. It serves a practical purpose. A consistent rhythm, often around four to seven beats per second, helps the brain shift into a focused, dreamlike state similar to what happens just before sleep or during deep meditation. In this state, the mind becomes quieter and less analytical, allowing imagery, memory, and intuition to surface more naturally.
+
+In practice, a person sits or lies down comfortably with their eyes closed while the drumbeat continues. There is no acting, pretending, or performing. The experience is observational. Images, scenes, emotions, or symbols may arise, or they may not. The focus is less on seeing something specific and more on listening inward in a different way.
+
+The person guiding the journey is not sending anything into the experience or controlling it. Their role is to hold the rhythm, keep time, remain present, and act as a grounded witness. They are there much like someone sitting beside you while you think deeply, offering steadiness rather than direction. Their presence allows you to relax into the process without having to manage the container yourself.
+
+From a modern psychological perspective, a shamanic journey can be understood as a guided imaginative process that accesses subconscious imagery and internal narrative. It operates in the same mental territory as active imagination, hypnagogic states, deep visualization, and narrative therapy. Nothing supernatural is required for the experience to be meaningful.
+
+People use shamanic journeys to gain perspective, work through emotional material, access symbolic insight, reconnect with intuition, and create internal coherence. The meaning does not usually arrive during the journey itself, but afterward, through reflection on what emerged.
+
+A simple way to explain it is this: it is a guided meditation that uses rhythm to help the mind access symbolic insight and intuition. No smoke, no costumes, no belief system required.
