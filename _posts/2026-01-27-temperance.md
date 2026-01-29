@@ -1,5 +1,5 @@
 ---
-date: 2026-01-28 0800:00
+date: 2026-01-27 0800:00
 layout: post
 title: TEMPERANCE
 description: to be a rock and NOT roll...balanced
