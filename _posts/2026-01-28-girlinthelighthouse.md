@@ -1,6 +1,6 @@
-
 ---
-date: 2026-01-27 
+
+date: 2026-01-28 
 layout: post
 title: The Girl in the Lighthouse
 subtitle:
@@ -10,4 +10,5 @@ optimized_image: /assets/img/uploads/lighthouse.jpg
 category: spirit
 tags: family
 author: awinter
+
 ---
