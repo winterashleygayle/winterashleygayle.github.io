@@ -7,7 +7,7 @@ description: A quiet story about prophecy, neglect, and consequence.
 image: /assets/img/uploads/skull.jpeg
 optimized_image: /assets/img/uploads/skull.jpeg
 category: story
-tags:story
+tags: story
 author: awinter
 ---
 
@@ -63,6 +63,7 @@ The prophecy had been fulfilled, yes.
 But life, as always, required follow-through.
 
 And somewhere between bone and soil, between symbol and practice, the world quietly chose to keep going.
+
 
 
 
