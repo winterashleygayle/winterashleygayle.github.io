@@ -1,7 +1,7 @@
 ---
 date: 2026-01-27 10:25:13
 layout: post
-title: Smoke alert
+title: Smoke Alert
 description: 
 image: /assets/img/uploads/ashleyselfie.jpeg
 optimized_image: /assets/img/uploads/ashleyselfie.jpeg
