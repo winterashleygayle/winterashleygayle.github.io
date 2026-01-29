@@ -18,7 +18,7 @@ author: awinter
 # My Spirit Helper 
 ## A shamanic journey, a lighthouse, and a guide that appeared when I didn’t know I needed one.
 ### The Girl in the Lighthouse
-
+<div style="text-align: center;">
 Long ago, before I had language for it, I went on what they call a 'journey'.
 <div class="alchemy-divider"></div>
 
@@ -109,3 +109,5 @@ From a modern psychological perspective, a shamanic journey can be understood as
 People use shamanic journeys to gain perspective, work through emotional material, access symbolic insight, reconnect with intuition, and create internal coherence. The meaning does not usually arrive during the journey itself, but afterward, through reflection on what emerged.
 
 A simple way to explain it is this: it is a guided meditation that uses rhythm to help the mind access symbolic insight and intuition. No smoke, no costumes, no belief system required.
+
+<div> 
