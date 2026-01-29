@@ -10,12 +10,7 @@ tags: family
 author: awinter
 
 ---
-
-<img
-  src="/assets/img/uploads/lighthouse.jpg"
-  alt="The Girl in the Lighthouse"
-  style="max-width: 600px; width: 100%; display: block; margin: 2rem auto;"
->
+![The Girl in the Lighthouse](/assets/img/uploads/lighthouse.jpeg)
 
 <div class="alchemy-symbol">△</div>
 
