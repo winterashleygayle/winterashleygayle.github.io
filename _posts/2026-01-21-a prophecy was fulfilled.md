@@ -3,7 +3,7 @@ date: 2026-01-21
 layout: post
 title: A prophecy was fulfilled and no one remembered to water the plants.
 subtitle: 
-description: A quiet story about prophecy, neglect, and consequence.
+description: 
 image: /assets/img/uploads/skull.jpeg
 optimized_image: /assets/img/uploads/skull.jpeg
 category: story
@@ -12,6 +12,8 @@ author: awinter
 ---
 
 <div class="alchemy-symbol">△</div>
+
+## A quiet story about prophecy, neglect, and consequence.
 
 They said the prophecy would arrive with thunder.
 They said the ground would split, the sky would speak, the old bones would rise and name themselves.
@@ -65,6 +67,7 @@ But life, as always, required follow-through.
 
 And somewhere between bone and soil, between symbol and practice, the world quietly chose to keep going.
 <div class="alchemy-divider"></div>
+
 
 
 
