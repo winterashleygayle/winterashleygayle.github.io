@@ -11,7 +11,7 @@ tags:story
 author: awinter
 ---
 
-
+<div class="alchemy-symbol">△</div>
 
 They said the prophecy would arrive with thunder.
 They said the ground would split, the sky would speak, the old bones would rise and name themselves.
@@ -63,6 +63,7 @@ The prophecy had been fulfilled, yes.
 But life, as always, required follow-through.
 
 And somewhere between bone and soil, between symbol and practice, the world quietly chose to keep going.
+
 
 
 
