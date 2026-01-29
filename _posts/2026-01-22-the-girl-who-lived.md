@@ -2,13 +2,12 @@
 date: 2026-01-22
 layout: post
 title: The Girl Who Lived
-description: to be a rock and roll...
+description: to be a rock and not roll...
 image: /assets/img/uploads/ashkid.jpeg
 optimized_image: /assets/img/uploads/ashkid.jpeg
 show_image: true
 category: trauma healing
-tags:
-  - trauma
+tags: trauma
 author: awinter
 ---
 
