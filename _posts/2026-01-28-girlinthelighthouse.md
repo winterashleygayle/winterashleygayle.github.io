@@ -35,17 +35,17 @@ There was only a man.
 An ordinary-looking man. Steady. Familiar.
 He was the lighthouse keeper.
 <div class="alchemy-divider"></div>
-As Anna described him, recognition landed in my body like a bell sounding in my chest. The man was my grandfather — not as I remembered him in photographs or family gatherings, but as something deeper. An ancestor in his proper element, tending the light.
+As Anna described him, recognition landed in my body like a bell sounding in my chest. The man was my grandfather, not as I remembered him in photographs or family gatherings, but as something deeper. Younger. A version of him I had never met in waking life. A version of him that existed long before I was born. An ancestor in his proper element, tending the light.
 
 He was carefully maintaining the lens, the intricate and fragile glass that fractures light into brilliance. He handled it with reverence, understanding that the lighthouse only works when every piece is honored, cleaned, and aligned. The light does not blaze by accident. It is crafted. Remembered. Passed down.
 
-The girl felt disappointed. She had wanted the future, not the past. Technology, not history. She had never been particularly interested in what came before — only what was coming next.
+The girl felt disappointed. She had wanted the future, not the past. Technology, not history. She had never been particularly interested in what came before, only what was coming next.
 
 He noticed.
 
 Do not be so quick to dismiss history, he told her gently. Patterns matter. What came before you teaches you how to stand now.
 
-What he was offering was not nostalgia. It was lineage — not only blood, but wisdom carried through generations. An understanding that spirit helpers do not always arrive as winged beings or visitors from the stars. Sometimes they arrive as ancestors who know the terrain because they walked it first.
+What he was offering was not nostalgia. It was lineage, not only blood, but wisdom carried through generations. An understanding that spirit helpers do not always arrive as winged beings or visitors from the stars. Sometimes they arrive as ancestors who know the terrain because they walked it first.
 
 Then he guided her outside, to the circular railing that wrapped the lighthouse.
 
@@ -78,10 +78,9 @@ The mission was simple, and it was not easy.
 Shine. Reflect. Hold steady.
 And so he has stayed with her.
 
-Since his passing, he returns not as a voice that interrupts, but as a presence that reassures — a tap on the shoulder, a gentle pat on the head, a reminder at just the right moment.
+Since his passing, he returns not as a voice that interrupts, but as a presence that reassures, a tap on the shoulder, a gentle pat on the head, a reminder at just the right moment.
 
 In his waking life, he signed every birthday card the same way:
-
 Glad you made it.
 
 In spirit, the message remains.
