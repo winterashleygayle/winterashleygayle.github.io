@@ -6,14 +6,14 @@ subtitle:
 description: My spirit helper
 image: /assets/img/uploads/christian.jpeg
 optimized_image: /assets/img/uploads/christian.jpeg
-categories: loss
-tags:
-  - family
+category: 'loss'
+tags: family
 author: awinter
 ---
 
 
 coming soon...
+
 
 
 
