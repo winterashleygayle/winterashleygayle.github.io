@@ -1,6 +1,6 @@
 ---
 
-date: 2026-01-28 12:00:00
+date: 2026-01-28 
 layout: post
 title: The Girl in the Lighthouse
 subtitle:
