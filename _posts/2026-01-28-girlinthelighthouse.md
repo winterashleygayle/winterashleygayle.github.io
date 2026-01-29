@@ -19,6 +19,7 @@ author: awinter
 ### The Girl in the Lighthouse
 
 Long ago, before I had language for it, there was a journey.
+<div class="alchemy-divider"></div>
 
 It took place to the rhythm of a drum, that steady heartbeat that loosens time and opens the thin veil between worlds. A woman named Anna guided the journey then. She no longer practices Shamanism, and I do not know where life carried her, but in that moment she was exactly who she needed to be: a witness, a holder of the doorway. I hope she is well.
 
@@ -33,7 +34,7 @@ There was only a man.
 
 An ordinary-looking man. Steady. Familiar.
 He was the lighthouse keeper.
-
+<div class="alchemy-divider"></div>
 As Anna described him, recognition landed in my body like a bell sounding in my chest. The man was my grandfather — not as I remembered him in photographs or family gatherings, but as something deeper. An ancestor in his proper element, tending the light.
 
 He was carefully maintaining the lens, the intricate and fragile glass that fractures light into brilliance. He handled it with reverence, understanding that the lighthouse only works when every piece is honored, cleaned, and aligned. The light does not blaze by accident. It is crafted. Remembered. Passed down.
@@ -52,7 +53,7 @@ Look, he said.
 Below them, waves crashed against dark rocks.
 You are never going to hit those, he told her calmly.
 "You will never hit the rocks."
-
+<div class="alchemy-divider"></div>
 He turned then, not to the girl, but to Anna, the one witnessing and listening and answered the question forming in her mind.
 
 Yes, he said. She is a lighthouse.
@@ -70,7 +71,7 @@ Something clicked then. An old knowing resurfaced. The girl remembered words she
 
 She understood.
 Guidance is not control. Help is not self-erasure. Presence is enough.
-
+<div class="alchemy-divider"></div>
 Some ships would come close. Some would pass by. Some would resent the light or mistake it for judgment. Some would turn away, because seeing clearly can be uncomfortable. Guides are not always loved. They are not always chosen. You will be rejected and often. Sometimes they are only recognized later, when the shore is finally reached.
 
 The mission was simple, and it was not easy.
@@ -87,7 +88,7 @@ In spirit, the message remains.
 
 He was not only glad she reached the top of the lighthouse that day.
 He was glad she became it.
-
+<div class="alchemy-divider"></div>
 
 
 
