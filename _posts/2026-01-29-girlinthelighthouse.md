@@ -87,6 +87,7 @@ In his waking life, he signed every birthday card the same way:
 Glad you made it.
 
 In spirit, the message remains.
+He was not only glad she reached the top of the lighthouse that day. He was glad she became it.
 
 <div class="alchemy-divider"></div>
 
