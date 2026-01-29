@@ -5,13 +5,15 @@ layout: post
 title: The Girl in the Lighthouse
 subtitle:
 description: My spirit helper
-image: /assets/img/uploads/lighthouse.jpeg
-optimized_image: /assets/img/uploads/lighthouse.jpeg
 category: spirit
 tags: family
 author: awinter
 
 ---
+
+<img src="/assets/img/uploads/lighthouse.jpg" 
+     alt="The Girl in the Lighthouse"
+     style="max-width: 600px; width: 100%; display: block; margin: 2rem auto;">
 
 <div class="alchemy-symbol">△</div>
 
