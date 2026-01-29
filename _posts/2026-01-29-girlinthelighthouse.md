@@ -4,7 +4,7 @@ date: 2026-01-29
 layout: post
 title: The Girl in the Lighthouse
 subtitle:
-description: My spirit helper
+description: A shamanic journey into childhood, guidance, and the steady presence that watches from the edge of the dark.
 image: /assets/img/uploads/lighthouse.jpeg
 category: spirit
 tags: family
