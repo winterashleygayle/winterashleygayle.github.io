@@ -13,6 +13,8 @@ author: awinter
 
 ---
 
+<div class="alchemy-symbol">△</div>
+
 # My Spirit Helper 
 ### The Girl in the Lighthouse
 
