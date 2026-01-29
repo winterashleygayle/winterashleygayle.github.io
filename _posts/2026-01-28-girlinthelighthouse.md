@@ -11,9 +11,11 @@ author: awinter
 
 ---
 
-<img src="{{ site.baseurl }}/assets/img/uploads/lighthouse.jpeg"
-     alt="The Girl in the Lighthouse"
-     style="max-width: 600px; width: 100%; display: block; margin: 2rem auto;">
+<img
+  src="/assets/img/uploads/lighthouse.jpg"
+  alt="The Girl in the Lighthouse"
+  style="max-width: 600px; width: 100%; display: block; margin: 2rem auto;"
+>
 
 <div class="alchemy-symbol">△</div>
 
