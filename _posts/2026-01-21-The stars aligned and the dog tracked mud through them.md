@@ -6,11 +6,8 @@ subtitle:
 description: As above, so below...and also slightly off-center
 image: /assets/img/uploads/sacredgeo.jpeg
 optimized_image: /assets/img/uploads/sacredgeo.jpeg
-categories: math
-tags:
-  - math
-  - tutorials
-  - passion
+category: math
+tags: math
 author: awinter
 ---
 
@@ -69,3 +66,4 @@ Geometry not as law, but as conversation.
 This is what geometry looks like before it becomes sacred.
 
 And honestly, that might be the most sacred part.
+
