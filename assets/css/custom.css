@@ -1,1 +1,7 @@
-
+.post-image img,
+.hero-image img,
+.featured-image img {
+  max-width: 600px;
+  margin: 2rem auto;
+  display: block;
+}
