@@ -7,7 +7,7 @@ description: "Every wound has a trajectory; healing is learning where the damage
 category: psychology
 image: /assets/img/uploads/emotionalwound.PNG
 optimized_image: /assets/img/uploads/emotionalwound.PNG
-tags: - fate
+tags: fate
 author: awinter
 ---
 
@@ -133,6 +133,7 @@ It becomes a site of wisdom, sensitivity, and depth.
 
 This is not romantic suffering.
 This is earned coherence.
+
 
 
 
