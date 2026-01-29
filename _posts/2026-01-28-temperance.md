@@ -7,8 +7,7 @@ image: /assets/img/uploads/Temperance.jpg
 show_image: false
 hide_image: true
 category: temperment 
-tags:
-  - change
+tags: change
 author: awinter
 
 ---
