@@ -13,10 +13,11 @@ tags:
 author: awinter
 ---
 
+## Where there is smoke, there is fire...
 
 
 
-## My grandfather, along with his parents and siblings, fled Germany and came to the United States to escape the Nazi regime and avoid being pulled into its ideology. I have German roots in my own family, and they made a deliberate moral choice to reject Nazism and its rhetoric. They left everything behind to start over based on their values.
+My grandfather, along with his parents and siblings, fled Germany and came to the United States to escape the Nazi regime and avoid being pulled into its ideology. I have German roots in my own family, and they made a deliberate moral choice to reject Nazism and its rhetoric. They left everything behind to start over based on their values.
 
 Our family name was originally Lobenstein. When my grandfather and his family fled Germany, they first dropped the “stein” in an effort to distance themselves from a country and ideology they were actively rejecting. Eventually, they chose to leave the name behind altogether and took his mother’s maiden name, Roberts. That decision was not about convenience. It was about conscience. It marked a clear break from a regime rooted in fascism, violence, and dehumanization.
 
