@@ -2,7 +2,7 @@
 date: 2026-01-27 10:25:13
 layout: post
 title: Smoke Alert
-description: 
+description: where there is smoke, there is fire...
 image: /assets/img/uploads/ashleyselfie.jpeg
 optimized_image: /assets/img/uploads/ashleyselfie.jpeg
 subtitle: 
