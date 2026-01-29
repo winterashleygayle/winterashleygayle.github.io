@@ -17,6 +17,7 @@ They said the prophecy would arrive with thunder.
 They said the ground would split, the sky would speak, the old bones would rise and name themselves.
 
 Instead, it arrived quietly.
+<div class="alchemy-divider"></div>
 
 A chair was placed at the center of the room, hand-carved, worn smooth by years of waiting. Upon it rested the skull of a long-horned guardian—once a creature of breath and heat and muscle, now a vessel of memory. Someone had set it there with care, aligning the horns as if they still listened for direction. Small stones and beads had been pressed into its brow, offerings meant to anchor vision.
 
@@ -33,7 +34,7 @@ The skull remembered a different order of things.
 It remembered when visions were followed by tending. When revelation meant responsibility. When those who carried messages from the unseen returned to the living world and placed their hands in soil.
 
 Once, the horned one had walked the edges of forest and field, pressing life into the land simply by passing through it. Hooves broke the ground so seeds could breathe. Breath stirred spores awake. Nothing holy was separate from what needed care.
-
+<div class="alchemy-divider"></div>
 Now the chair did not move.
 The skull could not drink.
 The plants waited.
@@ -45,14 +46,14 @@ Outside, the leaves curled inward.
 A shaman passing through paused at the doorway. She did not bow to the skull. She did not touch the chair. She listened instead—to the dry hush of soil, to the soft ache of roots reaching for what had been promised but not delivered.
 
 She understood.
-
+<div class="alchemy-divider"></div>
 Prophecies are not meant to be admired.
 They are meant to be integrated.
 
 She carried water in a chipped vessel, unremarkable, overlooked. She knelt where no one else was looking and poured slowly, letting the earth drink at its own pace. The plants responded immediately—not dramatically, not with spectacle—but with the smallest shift toward green.
 
 Inside, the skull caught the light differently.
-
+<div class="alchemy-divider"></div>
 Not brighter.
 Truer.
 
@@ -63,6 +64,7 @@ The prophecy had been fulfilled, yes.
 But life, as always, required follow-through.
 
 And somewhere between bone and soil, between symbol and practice, the world quietly chose to keep going.
+<div class="alchemy-divider"></div>
 
 
 
