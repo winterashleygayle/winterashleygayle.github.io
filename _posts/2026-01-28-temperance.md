@@ -2,7 +2,7 @@
 date: 2026-01-28 
 layout: post
 title: TEMPERANCE
-description: emotional regulation, but make it a lifestyle.
+description: emotional regulation, but make it a lifestyle. 
 image: /assets/img/uploads/Temperance.jpg
 show_image: false
 hide_image: true
