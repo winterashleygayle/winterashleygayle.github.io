@@ -7,9 +7,8 @@ description: Ahhh, the Anna’s hummingbird- tiny monarch of sparkle and attitud
 image: /assets/img/uploads/tailfeathers.png
 optimized_image: /assets/img/uploads/tailfeathers.png
 category: story
-tags:
-  - birds
-  - photography 
+tags: birds
+photography 
 author: awinter
 ---
 A small shamanic story about an Anna’s hummingbird 🌸
