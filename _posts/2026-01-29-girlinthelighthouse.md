@@ -18,8 +18,8 @@ author: awinter
 # My Spirit Helper 
 ## A shamanic journey, a lighthouse, and a guide that appeared when I didn’t know I needed one.
 ### The Girl in the Lighthouse
-<div style="text-align: center;">
-Long ago, before I had language for it, I went on what they call a 'journey'.
+
+Long ago, before I had language for it, I went on what they call a 'shamanic journey'.
 <div class="alchemy-divider"></div>
 
 It took place to the rhythm of a drum, that steady heartbeat that loosens time and opens the thin veil between worlds. A woman named Anna guided the journey then. She no longer practices Shamanism, and I do not know where life carried her, but in that moment she was exactly who she needed to be: a witness, a holder of the doorway. I hope she is well.
@@ -110,4 +110,4 @@ People use shamanic journeys to gain perspective, work through emotional materia
 
 A simple way to explain it is this: it is a guided meditation that uses rhythm to help the mind access symbolic insight and intuition. No smoke, no costumes, no belief system required.
 
-<div> 
+
