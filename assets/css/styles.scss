@@ -203,8 +203,14 @@
   opacity: 0.9;
 }
 
-.post-subtitle {
-  text-align: center;
+/* Center subtitle on the dark post */
+.dark-post-page .post-subtitle{
+  display: block;
+  width: 100%;
+  text-align: center !important;
+  float: none !important;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
