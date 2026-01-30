@@ -113,5 +113,40 @@
   filter: grayscale(100%);
 }
 
+/* Dark mode for a single post */
+.dark-post {
+  background-color: #000;
+  color: #fff;
+  padding: 4rem 2rem;
+}
+
+.dark-post p,
+.dark-post li,
+.dark-post blockquote {
+  color: #eaeaea;
+}
+
+.dark-post h1,
+.dark-post h2,
+.dark-post h3,
+.dark-post h4 {
+  color: #ffffff;
+}
+
+.dark-post a {
+  color: #9ecbff;
+}
+
+.dark-post a:hover {
+  color: #ffffff;
+}
+
+/* Optional: keep text narrow and elegant */
+.dark-post {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+
 
 
