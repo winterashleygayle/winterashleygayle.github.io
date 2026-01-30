@@ -17,14 +17,22 @@
     {% endif %}
     <a href="{{ recommendation.url | prepend: site.baseurl }}" class="post-preview">
         <div class="image">
-            {% if recommendation.optimized_image %}
-                <img src="{{ recommendation.optimized_image }}">
-            {% elsif recommendation.image %}
-                <img src="{{ recommendation.image }}">
-            {% else %}
-                <img src="/assets/img/off.jpg">
-            {% endif %}
-        </div>
+  {% if recommendation.optimized_image %}
+    <img src="{{ recommendation.optimized_image }}">
+  {% elsif recommendation.image %}
+    <img src="{{ recommendation.image }}">
+  {% else %}
+    <img src="/assets/img/off.jpg">
+  {% endif %}
+</div>
+
+{% if recommendation.badge_label and recommendation.badge_value %}
+  <div class="thumb-badge">
+    <span class="thumb-badge-label">{{ recommendation.badge_label }}</span>
+    <span class="thumb-badge-value">{{ recommendation.badge_value }}</span>
+  </div>
+{% endif %}
+
         <h3 class="title">{{ recommendation.title }}</h3>
     </a>
 </div>
