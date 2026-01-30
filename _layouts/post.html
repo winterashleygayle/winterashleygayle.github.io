@@ -7,7 +7,7 @@
         {% include header.html %}
 
         <section class="post {% if site.two_columns_layout %}two-columns{% else %}one-column{% endif %}">
-            <article role="article" class="post-content">
+            <article role="article" class="post-content {% if page.dark_post %}dark-post{% endif %}">
                 <p class="post-info">
                     {% if page.date %}
                         <svg class="icon-calendar" id="date"><use xlink:href="#icon-calendar"></use></svg>
