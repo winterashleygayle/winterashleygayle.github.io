@@ -147,6 +147,49 @@
   margin: 0 auto;
 }
 
+/* FULL PAGE dark mode for a single post */
+.dark-post-page {
+  background-color: #000;
+  color: #fff;
+}
+
+/* Main content area */
+.dark-post-page main,
+.dark-post-page section,
+.dark-post-page article {
+  background-color: #000;
+}
+
+/* Sidebar ("See also") */
+.dark-post-page aside {
+  background-color: #000;
+  color: #eaeaea;
+}
+
+/* Text */
+.dark-post-page p,
+.dark-post-page li,
+.dark-post-page span {
+  color: #eaeaea;
+}
+
+.dark-post-page h1,
+.dark-post-page h2,
+.dark-post-page h3,
+.dark-post-page h4 {
+  color: #ffffff;
+}
+
+/* Links */
+.dark-post-page a {
+  color: #9ecbff;
+}
+
+.dark-post-page a:hover {
+  color: #ffffff;
+}
+
+
 
 
 
