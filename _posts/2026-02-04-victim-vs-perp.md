@@ -1,5 +1,5 @@
 ---
-date: 2026-02-01 00:01:00 -0800
+date: 2026-02-04 00:01:00 -0800
 layout: post
 title: Ideology as a Byproduct of Trauma, Not Its Cause
 subtitle: ""
