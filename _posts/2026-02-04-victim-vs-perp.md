@@ -1,9 +1,9 @@
 ---
 date: 2026-02-04 00:01:00 -0800
 layout: post
-title: Ideology as a Byproduct of Trauma, Not Its Cause
+title: Victim and Perpetrator as Nervous System Positions
 subtitle: ""
-description: Victim and Perpetrator as Nervous System Positions
+description: 
 show_image: false
 hide_image: true
 dark_post: true
