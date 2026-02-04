@@ -4,6 +4,8 @@ layout: post
 title: Ideology as a Byproduct of Trauma, Not Its Cause
 subtitle: ""
 description: Victim and Perpetrator as Nervous System Positions
+show_image: false
+hide_image: true
 dark_post: true
 image: /assets/img/uploads/perpvistim.png
 category: ideology
