@@ -6,7 +6,6 @@ subtitle: ""
 description: Victim and Perpetrator as Nervous System Positions
 dark_post: true
 image: /assets/img/uploads/perpvistim.png
-optimized_image: /assets/img/uploads/perpvictim.png
 category: ideology
 tags: life
 author: awinter
