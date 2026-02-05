@@ -178,6 +178,9 @@ What spared me was not holiness. It was staying awake.
 
 And that, too, has a price.
 
+<p style="text-align: center; margin: 3rem 0;">
+  <img src="/assets/img/uploads/legenddevil.gif" alt="Alt text" style="max-width: 100%;">
+</p>
 ## Your Mind is your Karma
 
 There is another truth that sits alongside this, one that is harder to say without sounding mystical, yet feels accurate in my body.
