@@ -5,7 +5,7 @@ title: The Devil took my Family
 subtitle: ""
 description: The Devil We Know
 dark_post: true
-image: /assets/img/uploads/deviltimcurry.jpeg
+image: /assets/img/uploads/deviltimcurry.jpg
 optimized_image: /assets/img/uploads/deviltimcurry.jpeg
 category: sorrow
 tags: loss
@@ -57,7 +57,7 @@ Except me.
 That moment fractured something fundamental. Not just my understanding of my mother, but my understanding of how families protect themselves by keeping the most vulnerable person in the dark.
 
 <p style="text-align: center; margin: 3rem 0;">
-  <img src="/assets/img/uploads/deviltim.jpeg" alt="Alt text" style="max-width: 100%;">
+  <img src="/assets/img/uploads/deviltim.jpg" alt="Alt text" style="max-width: 100%;">
 </p>
 
 ## The Devil as Theft
