@@ -70,11 +70,9 @@ My siblings fell into it.
 
 My sister survived a coma that shut down her organs. My brother did not survive his pain. He died by suicide, and the circumstances around his death were complicated, controversial, and deeply destabilizing. His death shattered whatever fragile equilibrium remained in our family system.
 
-After that, my mother disappeared completely.
+After that, my mother withdrew almost entirely. She was grieving, but she was also in deep denial about the role she had played in the situation that unfolded.
 
-Grief broke something in her that never healed.
-
-Being the One Who Stayed Awake
+## Being the One Who Stayed Awake
 
 I did not follow them.
 
@@ -82,7 +80,7 @@ That does not mean I escaped unscathed.
 
 My coping mechanisms leaned in other directions: hypervigilance, over responsibility, emotional labor, codependence. Different strategies. Same attempt to survive unbearable pain.
 
-I became the watcher. The regulator. The one who stayed lucid in a system unraveling around me.
+I became the watcher. The regulator. It felt like being awake inside a lucid nightmare, aware of what was happening but unable to control it. The one who stayed lucid in a system unraveling around me. 
 
 There is a particular loneliness in being the one who stays awake while everyone else disappears into their demons. You are expected to understand without being understood. To forgive without being apologized to. To remain functional while everything meaningful collapses.
 
