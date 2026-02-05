@@ -1,7 +1,7 @@
 ---
 date: 2026-02-04 00:01:00 -0800
 layout: post
-title: Victim and Perpetrator as Nervous System Positions
+title: People of the Lie
 subtitle: ""
 description: 
 show_image: false
@@ -51,6 +51,34 @@ From a trauma perspective, this reflects a collapse of self reflection in favor 
 
 Seen through a victim perpetrator lens, this aligns closely with perpetrator organized defenses. Projection allows aggression to be located in others. Moralization reframes domination as righteousness. Dehumanization reduces people to symbols, threats, or abstractions rather than full human beings. Responsibility is continually displaced outward, preserving a sense of internal innocence at any cost.
 
+## What People of the Lie Means in This Context
+
+People of the Lie, written by psychiatrist M. Scott Peck, is not a religious manifesto or a political critique, despite how it is sometimes framed. It is a psychological examination of what Peck calls evil, understood not as monstrous violence or sadism, but as a specific pattern of psychological defense.
+
+Peck defines evil as the active refusal to acknowledge one’s own destructiveness.
+
+In his clinical work, he observed individuals who were not impulsively cruel or emotionally explosive, but instead rigid, self-righteous, and deeply invested in preserving a flawless self-image. These individuals could not tolerate guilt, ambiguity, or internal contradiction. Rather than metabolizing their own aggression, fear, or shame, they projected it outward—onto scapegoats, enemies, children, institutions, or abstract “others.”
+
+From a modern trauma-informed perspective, this maps closely onto what can be described as a perpetrator-organized nervous system.
+
+In People of the Lie, Peck describes how these individuals externalize responsibility as a survival strategy. They moralize control. They recast domination as virtue. They rewrite harm as necessity. Most critically, they are psychologically unable to say, “I was wrong,” because doing so would collapse the fragile structure holding their identity together.
+
+This is why Peck emphasizes that evil is not rare, dramatic, or theatrical. It is often quiet. Respectable. Institutional. It hides behind certainty, righteousness, and moral absolutism. It thrives in systems where questioning is punished and compliance is rewarded.
+
+Seen through the victim-perpetrator nervous system lens, People of the Lie becomes less about labeling people as “bad” and more about identifying what happens when self-reflection is sacrificed for psychological survival.
+
+The book also helps explain the phenomenon of perpetrator-type victims—individuals who sincerely experience themselves as harmed, yet unconsciously replicate harm by enforcing control, suppressing dissent, or stripping others of agency in the name of justice, safety, or morality. Peck did not use this language, but the pattern is clearly present in his case studies.
+
+This is why People of the Lie remains relevant to discussions of ideology. Peck was not diagnosing political movements. He was describing a psychological condition in which ideology becomes a shield against inner accountability.
+
+In that sense, the book functions as a warning rather than a verdict:
+when certainty replaces curiosity, when moral purity replaces responsibility, and when identity is protected at all costs, ideology stops being a belief system and becomes a mechanism of psychological violence.
+
+Your framing takes Peck’s insight one step further by grounding it in nervous system organization. The danger is not ideology itself. The danger is what happens when unresolved trauma, fear of collapse, and the need for control fuse into a worldview that cannot tolerate human complexity.
+
+That is the quiet truth beneath People of the Lie.
+
+
 ## When Victims Become Perpetrator Type Victims
 
 One of the most subtle and difficult dynamics to name is the phenomenon of perpetrator type victims. These are individuals who identify with victimhood not as a condition to be healed, but as an identity to be defended.
@@ -85,7 +113,7 @@ Sovereignty involves responsibility for one’s inner world, the ability to tole
 
 Healing, both individually and collectively, requires moving beyond both victim and perpetrator identities and into agency without domination.
 
-The Quiet Truth Beneath It All
+## The Quiet Truth Beneath It All
 
 Most people are not evil. Most people are not weak. Most people are simply unaware of the nervous system stories they are living inside of.
 
