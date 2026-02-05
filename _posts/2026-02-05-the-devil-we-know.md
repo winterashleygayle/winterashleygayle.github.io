@@ -176,8 +176,7 @@ It is as if some part of you arrives already knowing what paths not to take. Not
 You shy away from certain forms of destruction even when they would make life easier in the short term. Even when numbing would offer relief. Even when collapse would be understandable. You feel the edge of those exits and turn away, not out of virtue, but out of recognition.
 
 This does not mean you are spared from suffering.
-
-It means you are spared from the kinds of suffering that erase awareness.
+It means you are spared from the kinds of suffering that erases awareness.
 
 You are still here for lessons. Hard ones. Lonely ones. Lessons that require endurance rather than escape. Lessons that demand staying present inside pain rather than outrunning it. There is nothing easy about this path. Having a sound mind does not protect you from grief, loss, or devastation. It only ensures that you will feel them fully.
 
