@@ -165,6 +165,34 @@ What spared me was not holiness. It was staying awake.
 
 And that, too, has a price.
 
+## Your Mind is your Karma
+
+There is another truth that sits alongside this, one that is harder to say without sounding mystical, yet feels accurate in my body.
+
+Sometimes the mind being your karma is not a punishment. It is a gift.
+
+It is as if some part of you arrives already knowing what paths not to take. Not because you are wiser or better, but because the cost of those paths has already been paid somewhere, sometime. Whether one believes this comes from past lives, inherited trauma, epigenetics, or early nervous system imprinting does not change the outcome. The knowing is there at the moment of birth.
+
+You shy away from certain forms of destruction even when they would make life easier in the short term. Even when numbing would offer relief. Even when collapse would be understandable. You feel the edge of those exits and turn away, not out of virtue, but out of recognition.
+
+This does not mean you are spared from suffering.
+
+It means you are spared from the kinds of suffering that erase awareness.
+
+You are still here for lessons. Hard ones. Lonely ones. Lessons that require endurance rather than escape. Lessons that demand staying present inside pain rather than outrunning it. There is nothing easy about this path. Having a sound mind does not protect you from grief, loss, or devastation. It only ensures that you will feel them fully.
+
+But that soundness is what allows survival.
+
+Not survival as mere continuation, but survival with coherence. With memory. With meaning. With the capacity to integrate what happened rather than be consumed by it.
+
+In families touched by addiction, mental illness, and unhealed trauma, this kind of awareness can feel isolating. It separates you from the exits everyone else takes. It leaves you standing in the aftermath, holding the truth that no one else could bear to hold.
+
+If the devil took my family, then perhaps this was the counterforce. Not divine intervention. Not moral superiority. But a mind that could not be taken offline.
+
+A mind that knew, from the beginning, what it must refuse in order to remain intact.
+
+And that, too, is a form of inheritance.
+
 ### What Remains
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/deviltimlegend.jpeg" alt="Alt text" style="max-width: 100%;">
