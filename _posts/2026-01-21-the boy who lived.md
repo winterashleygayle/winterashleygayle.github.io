@@ -4,6 +4,7 @@ layout: post
 title: The Day the Music Died 
 subtitle:
 description: My brothers death
+dark_post: true
 image: /assets/img/uploads/christian.jpeg
 optimized_image: /assets/img/uploads/christian.jpeg
 category: loss
@@ -43,6 +44,7 @@ Not because my brother was weak. Not because he failed. But because his death re
 His death was not an ending. It was an opening.
 
 An opening that swallowed everything that came after.
+
 
 
 
