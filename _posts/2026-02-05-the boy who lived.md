@@ -3,7 +3,7 @@ date: 2026-02-05
 layout: post
 title: The Day the Music Died 
 subtitle:
-description: My brothers death
+description: My Brother
 dark_post: true
 image: /assets/img/uploads/christian.jpeg
 optimized_image: /assets/img/uploads/christian.jpeg
@@ -61,6 +61,7 @@ And he stayed.
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/MANCROW.png" alt="Alt text" style="max-width: 100%;">
 </p>
+
 
 
 
