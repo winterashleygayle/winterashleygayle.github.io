@@ -31,7 +31,7 @@ Grief did not move through us cleanly or collectively. It fractured us further. 
 
 My mother did not survive that loss in any meaningful psychological sense. Whatever stability she had been holding onto gave way. Her grief was total, consuming, and unintegrated. She could not look directly at what had happened, and she could not look at herself within it. The loss hollowed her out.
 
-My siblings and I were left to navigate the aftermath without a shared language for what had occurred. There was no container. No clear reckoning. Just a silence that grew heavier with time.
+My sibling and I were left to navigate the aftermath without a shared language for what had occurred. There was no container. No clear reckoning. Just a silence that grew heavier with time.
 
 For me, his death marked the moment when confusion became the organizing principle of the family. Nothing made sense anymore, and no one was explaining anything. Questions were treated as threats. Clarity felt dangerous. Grief was something to survive rather than face.
 
@@ -44,6 +44,7 @@ Not because my brother was weak. Not because he failed. But because his death re
 His death was not an ending. It was an opening.
 
 An opening that swallowed everything that came after.
+
 
 
 
