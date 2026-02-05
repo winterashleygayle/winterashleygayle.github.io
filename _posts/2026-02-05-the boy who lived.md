@@ -14,7 +14,7 @@ author: awinter
 
 There is more to say about my brother, and I will say it when the time is right. For now, this is the part that cannot be skipped.
 
-## I started singin', "Bye Bye Miss America Pie"  Drove my Chevy, to the Levee but Levee was dry...
+### I started singin', "Bye Bye Miss America Pie"  Drove my Chevy, to the Levee but Levee was dry...
 <div class="alchemy-symbol">△</div>
 
 <div class="alchemy-divider"></div>
@@ -110,6 +110,7 @@ And this is why he stayed.
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/MANCROW.png" alt="Alt text" style="max-width: 100%;">
 </p>
+
 
 
 
