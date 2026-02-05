@@ -16,7 +16,6 @@ author: awinter
 # The Devil Inside 
 <div class="alchemy-divider"></div>
 
-### The Devil Took My Family
 
 The devil did not arrive with red skin or horns or the sound of hooves on the floor.
 
