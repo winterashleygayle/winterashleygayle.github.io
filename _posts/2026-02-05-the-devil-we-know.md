@@ -98,10 +98,10 @@ But he took everything around me, and that has its own cost.
 
 In the final weeks of my mother’s life, I stayed with her constantly. She had been hospitalized for over two weeks as her kidneys failed. The donated kidney I had given her years earlier had stopped functioning after she began using again, and she refused to continue dialysis. That refusal became her final assertion of autonomy, the one decision that was entirely hers.
 
-I was exhausted in a way that went beyond sleep deprivation. I had been grieving her for years already.
+I was exhausted in a way that went beyond sleep deprivation. 
+I had been grieving her for years already.
 
 On the day she died, driving to the hospital, something in me broke open.
-
 I spoke to her out loud.
 
 I told her I was okay. I told her she didn’t have to stay for me anymore. That if she was tired, she could rest. That she could go.
