@@ -130,6 +130,10 @@ I can release blame without denying reality.
 
 Her addiction was not my fault. Her relapse was not my failure. Her choices were not a verdict on my worth.
 
+<p style="text-align: center; margin: 3rem 0;">
+  <img src="/assets/img/uploads/legend.jpg" alt="Alt text" style="max-width: 100%;">
+</p>
+
 ## The One Who Was Not Taken
 
 As a spiritual person, I have often struggled to find language for something I experience without turning it into fantasy or self mythology. What I know is this: whatever moved through my family did not move through me in the same way.
