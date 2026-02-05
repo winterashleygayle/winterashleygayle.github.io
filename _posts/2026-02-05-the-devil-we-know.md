@@ -36,7 +36,7 @@ Not physically. Spiritually.
 
 Something in her withdrew long before her body followed. I felt it, even when I did not yet understand it. She was present in name, but unreachable in essence. Conversations went nowhere. Emotions flattened or exploded without warning. There was too much grief, too much mental decline, too many unspoken truths crowding the room.
 
-What I did not know, what no one told me, was that my mother was a recovering drug addict long before I was born. That she had relapsed. That heroin had re entered her life quietly, decisively, and without ceremony.
+What I did not know, what no one told me, was that my mother was in recovery from drug addiction when I was an infant. I did not know what substances were involved at that time. Years later, she relapsed, and heroin entered her life during that period.
 
 I did not grow up with context. I grew up with confusion.
 
