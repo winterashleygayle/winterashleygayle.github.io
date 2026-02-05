@@ -14,8 +14,8 @@ author: awinter
 
 There is more to say about my brother, and I will say it when the time is right. For now, this is the part that cannot be skipped.
 
-## and I was singing, bye bye Ms. America Pie 
-### Drove the Chevy, to the Levee but Levee was dry...
+## ...and I was singing, bye bye Ms. America Pie.  Drove the Chevy, to the Levee but Levee was dry...
+
 
 My brother did not die quietly in the sense people mean when they try to soften the truth. His death was loud in its aftermath, destabilizing in ways that rippled through everything that came after. The circumstances were complicated, contested, and heavy with unanswered questions. What mattered most, though, was not the speculation. It was the rupture.
 
@@ -104,6 +104,7 @@ And this is why he stayed.
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/MANCROW.png" alt="Alt text" style="max-width: 100%;">
 </p>
+
 
 
 
