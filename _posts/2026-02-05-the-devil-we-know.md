@@ -125,6 +125,9 @@ I can release blame without denying reality.
 Her addiction was not my fault. Her relapse was not my failure. Her choices were not a verdict on my worth.
 
 ### What Remains
+<p style="text-align: center; margin: 3rem 0;">
+  <img src="/assets/img/uploads/deviltimlegend.jpeg" alt="Alt text" style="max-width: 100%;">
+</p>
 
 The devil took my family but not my clarity.
 
