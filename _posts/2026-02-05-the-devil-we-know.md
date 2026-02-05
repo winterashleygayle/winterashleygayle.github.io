@@ -30,6 +30,10 @@ Through attrition.
 I was the last to know.
 
 ## The Silence Around Addiction
+<div class="alchemy-symbol">△</div>
+
+<div class="alchemy-divider"></div>
+
 
 My mother died three days before Thanksgiving in 2017. 
 But in many ways, she had already been gone for years.
@@ -67,6 +71,10 @@ For years, I carried shock and anger. I thought I had a peerless mother one day,
 
 ## The Devil as Theft
 
+<div class="alchemy-symbol">△</div>
+
+<div class="alchemy-divider"></div>
+
 Addiction is not chaos in the way people imagine it. It is not always wild or reckless. Often, it is quiet. Methodical. It drains creativity, agency, and imagination until a person’s inner life collapses into obsession, paranoia, or despair.
 
 This is why I say the devil took my family.
@@ -96,6 +104,10 @@ But he took everything around me, and that has its own cost.
 
 ## Letting My Mother Go
 
+<div class="alchemy-symbol">△</div>
+
+<div class="alchemy-divider"></div>
+
 In the final weeks of my mother’s life, I stayed with her constantly. She had been hospitalized for over two weeks as her kidneys failed. The donated kidney I had given her years earlier had stopped functioning after she began using again, and she refused to continue dialysis. That refusal became her final assertion of autonomy, the one decision that was entirely hers.
 
 I was exhausted in a way that went beyond sleep deprivation. 
@@ -117,6 +129,10 @@ Sometimes letting someone go is not abandonment.
 Sometimes it is the last mercy.
 
 ## Holding Two Truths
+<div class="alchemy-symbol">△</div>
+
+<div class="alchemy-divider"></div>
+
 
 Understanding addiction does not absolve harm.
 
@@ -209,6 +225,10 @@ A mind that knew, from the beginning, what it must refuse in order to remain int
 And that, too, is a form of inheritance.
 
 ### What Remains
+<div class="alchemy-symbol">△</div>
+
+<div class="alchemy-divider"></div>
+
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/deviltimlegend.jpeg" alt="Alt text" style="max-width: 100%;">
 </p>
@@ -234,3 +254,8 @@ Refusal to hand my life force over to the same darkness that swallowed the rest.
 The devil may have taken my family.
 
 But he did not take me.
+<div class="alchemy-symbol">△</div>
+
+<div class="alchemy-divider"></div>
+
+
