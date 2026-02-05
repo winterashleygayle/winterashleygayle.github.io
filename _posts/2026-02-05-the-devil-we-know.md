@@ -254,7 +254,7 @@ Refusal to hand my life force over to the same darkness that swallowed the rest.
 The devil may have taken my family.
 
 But he did not take me.
-<div class="alchemy-symbol">△</div>
+
 
 <div class="alchemy-divider"></div>
 
