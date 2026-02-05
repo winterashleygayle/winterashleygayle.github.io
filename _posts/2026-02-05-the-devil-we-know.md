@@ -54,7 +54,10 @@ Everyone knew.
 
 Except me.
 
-That moment fractured something fundamental. Not just my understanding of my mother, but my understanding of how families protect themselves by keeping the most vulnerable person in the dark.
+That moment fractured something fundamental. Not just my understanding of my mother, but my understanding of how families protect themselves by keeping the most vulnerable person in the dark. I felt stupid. Completly blind and left in the dark. Suddenly, what I thought was a sudden decision was revealed to be a relapse. What I thought was random was actually part of a lifelong struggle. But the damage had already been done.
+
+
+For years, I carried shock and anger. I thought I had a peerless mother one day, and then suddenly I did not.
 
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/deviltim.jpg" alt="Alt text" style="max-width: 100%;">
