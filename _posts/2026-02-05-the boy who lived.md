@@ -68,9 +68,9 @@ There was a little girl whose life had been interrupted too early. A body that e
 
 In clinical language, this is trauma. Dissociation. Survival adaptation.
 
-In shamanic traditions, it is called soul loss.
+In shamanic traditions, it is called Soul loss.
 
-And the work of returning to oneself is called soul retrieval.
+And the work of returning to oneself is called Soul Retrieval.
 
 For a long time, I could not reconcile these two frameworks. I feared that acknowledging the depth of what I had survived meant admitting I was broken beyond repair. I mistook fragmentation for madness. I worried that remembering meant losing myself completely, that I would become the very chaos I was trying to understand.
 
@@ -103,6 +103,7 @@ And this is why he stayed.
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/MANCROW.png" alt="Alt text" style="max-width: 100%;">
 </p>
+
 
 
 
