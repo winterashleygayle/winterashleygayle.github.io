@@ -6,7 +6,7 @@ subtitle: ""
 description: The Devil We Know
 dark_post: true
 image: /assets/img/uploads/deviltimcurry.jpg
-optimized_image: /assets/img/uploads/deviltimcurry.jpeg
+optimized_image: /assets/img/uploads/deviltimcurry.jpg
 category: sorrow
 tags: loss
 author: awinter
