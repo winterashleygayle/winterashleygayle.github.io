@@ -24,7 +24,6 @@ He did not announce himself.
 He came quietly, like an atmosphere. Like something that settles into a house and changes the air without anyone noticing right away. He came as confusion. As exhaustion. As the slow erosion of clarity. He came as an energy that does not destroy all at once, but steals a little vitality here, a little imagination there until what remains is a body still breathing but no longer fully inhabited.
 
 That is how the devil took my family.
-
 Not through spectacle. Through attrition.
 
 I was the last to know.
