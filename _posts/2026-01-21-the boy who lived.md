@@ -12,38 +12,54 @@ tags: family
 author: awinter
 ---
 
-
 There is more to say about my brother, and I will say it when the time is right. For now, this is the part that cannot be skipped.
 
 ## The Day the Music Died
 
 My brother did not die quietly in the sense people mean when they try to soften the truth. His death was loud in its aftermath, destabilizing in ways that rippled through everything that came after. The circumstances were complicated, contested, and heavy with unanswered questions. What mattered most, though, was not the speculation. It was the rupture.
 
-The day he died, something essential went missing from our family system.
+What I did not expect was that he did not disappear.
 
-Music is the only word I have for it.
+In the days after his death, he began to show up in a way I did not understand and did not trust. Not as a ghost. Not as a vision. But as a presence in my inner world. A voice that felt familiar, steady, and oddly practical. He appeared at moments when I was stuck, overwhelmed, or unable to decide what to do next.
 
-Not because he was always playing it, though he often was, but because he carried a kind of rhythm with him. A presence. An emotional register that held humor, chaos, intelligence, and intensity all at once. When he left, that rhythm stopped. Everything after moved out of time.
+For more than a decade, I refused to believe this meant anything beyond grief.
 
-His death was not absorbed. It detonated.
+I told myself I had made him up. That my mind, shattered by loss, had created an imaginary guide to cope with the absence. That this was what trauma did. It filled the silence with invention. I was convinced that if I acknowledged him as anything more, I would be admitting that I had lost my grip on reality.
 
-Grief did not move through us cleanly or collectively. It fractured us further. It pulled at already weakened seams. It activated denial, blame, silence, and retreat. No one knew where to place the weight of what had happened, so it dispersed unevenly. Some collapsed inward. Some hardened. Some disappeared. No one knew how to metabolize it.
+So I argued with myself instead.
 
-My mother did not survive that loss in any meaningful psychological sense. Whatever stability she had been holding onto gave way. Her grief was total, consuming, and unintegrated. She could not look directly at what had happened, and she could not look at herself within it. The loss hollowed her out.
+But he stayed.
 
-My sibling and I were left to navigate the aftermath without a shared language for what had occurred. There was no container. No clear reckoning. Just a silence that grew heavier with time.
+Not constantly. Not intrusively. He appeared when I was at an impasse. When the next step was unclear. When I was alone in decisions no one else could make for me. He did not comfort me in the way people expect grief to comfort. He oriented me. He cut through confusion. He told me things I did not want to hear and could not yet understand.
 
-For me, his death marked the moment when confusion became the organizing principle of the family. Nothing made sense anymore, and no one was explaining anything. Questions were treated as threats. Clarity felt dangerous. Grief was something to survive rather than face.
+A few days after he died, still unconvinced he was anything more than my imagination, I gave in for a moment and played along. I asked him a question I had been carrying.
 
-In the years that followed, his absence shaped everything. It accelerated patterns that were already present and pushed fragile systems past their breaking point. Addiction deepened. Mental health deteriorated. The gravitational pull toward destruction intensified.
+Why aren’t you with Crysta and Mom? They are beside themselves. I’m fine. Why are you here?
 
-This is why I say the devil took my family.
+His response was immediate. Clear. Unambiguous.
 
-Not because my brother was weak. Not because he failed. But because his death removed a stabilizing force, and what rushed in afterward found no resistance.
+Because you need me more.
 
-His death was not an ending. It was an opening.
+At the time, I rejected it. It felt wrong. Even cruel. I could not imagine a world in which I was the one who needed him most. I pushed the thought away and returned to my explanation. This is grief. This is coping. This is invention.
 
-An opening that swallowed everything that came after.
+It took years to understand what he meant.
+
+I was headed into many dark nights of the soul. Years that would require dismantling inherited patterns, surviving the collapse of my family system, and learning how to stay conscious while everything familiar fell away. I would become the one who did not numb, did not disappear, did not exit through the same doors the others did.
+
+I would become the cycle breaker.
+
+In psychological terms, he may have lived on as an internalized attachment figure, a stabilizing presence formed through loss. In spiritual terms, he felt like a guide. In truth, both can exist at once. The mind does not invent what it does not need. And what I needed was orientation. Continuity. A tether to something steady when everything else was breaking.
+
+He was not there to save me.
+
+He was there to help me reclaim myself.
+
+Only later did I understand that his presence was not about death. It was about survival. About remaining intact through experiences that would otherwise fracture the soul. He knew, in a way I could not yet know, that the road ahead would require endurance rather than escape.
+
+And he stayed.
+
+
+
 
 
 
