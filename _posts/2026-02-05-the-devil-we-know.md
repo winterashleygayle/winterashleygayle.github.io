@@ -30,7 +30,8 @@ I was the last to know.
 
 ## The Silence Around Addiction
 
-My mother died three days before Thanksgiving in 2017. But in many ways, she had already been gone for years.
+My mother died three days before Thanksgiving in 2017. 
+But in many ways, she had already been gone for years.
 
 Not physically. Spiritually.
 
