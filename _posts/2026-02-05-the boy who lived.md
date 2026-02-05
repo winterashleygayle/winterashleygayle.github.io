@@ -1,5 +1,5 @@
 ---
-date: 2026-01-21 
+date: 2026-02-05 
 layout: post
 title: The Day the Music Died 
 subtitle:
@@ -61,6 +61,7 @@ And he stayed.
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/MANCROW.png" alt="Alt text" style="max-width: 100%;">
 </p>
+
 
 
 
