@@ -58,6 +58,11 @@ Only later did I understand that his presence was not about death. It was about 
 
 And he stayed.
 
+<p style="text-align: center; margin: 3rem 0;">
+  <img src="/assets/img/uploads/MANCROW.png" alt="Alt text" style="max-width: 100%;">
+</p>
+
+
 
 
 
