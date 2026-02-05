@@ -15,6 +15,9 @@ author: awinter
 There is more to say about my brother, and I will say it when the time is right. For now, this is the part that cannot be skipped.
 
 ## ...and I was singing, bye bye Ms. America Pie.  Drove the Chevy, to the Levee but Levee was dry...
+<div class="alchemy-symbol">△</div>
+
+<div class="alchemy-divider"></div>
 
 
 My brother did not die quietly in the sense people mean when they try to soften the truth. His death was loud in its aftermath, destabilizing in ways that rippled through everything that came after. The circumstances were complicated, contested, and heavy with unanswered questions. What mattered most, though, was not the speculation. It was the rupture.
@@ -30,6 +33,7 @@ I told myself I had made him up. That my mind, shattered by loss, had created an
 So I argued with myself instead.
 
 But he stayed.
+<div class="alchemy-divider"></div>
 
 Not constantly. Not intrusively. He appeared when I was at an impasse. When the next step was unclear. When I was alone in decisions no one else could make for me. He did not comfort me in the way people expect grief to comfort. He oriented me. He cut through confusion. He told me things I did not want to hear and could not yet understand.
 
@@ -59,6 +63,7 @@ Only later did I understand that his presence was not about death. It was about 
 
 ### And he stayed.
 
+<div class="alchemy-divider"></div>
 What I did not understand then was that his presence was not meant to comfort me through grief alone. It was meant to accompany me into terrain I had not yet entered.
 
 I was standing at the threshold of a long journey into my own mind.
@@ -76,7 +81,7 @@ And the work of returning to oneself is called Soul Retrieval.
 For a long time, I could not reconcile these two frameworks. I feared that acknowledging the depth of what I had survived meant admitting I was broken beyond repair. I mistook fragmentation for madness. I worried that remembering meant losing myself completely, that I would become the very chaos I was trying to understand.
 
 But my body never stopped breathing. My mind never fully disappeared. Something in me remained intact enough to return.
-
+<div class="alchemy-divider"></div>
 What I did not know then was that my brother understood this terrain instinctively. Whether one believes this is psychological, symbolic, or spiritual matters less than the function it served. He stayed close in the places where I was most likely to lose my footing. He appeared not to rescue me, but to orient me. To remind me that descent was not the same as annihilation.
 
 I told myself, at first, that this was a story I was inventing to survive. A myth to make meaning of unbearable pain. Perhaps it was. But stories are how humans retrieve themselves when logic fails. Narrative is not delusion. It is integration.
@@ -100,10 +105,12 @@ Not the erasure of what happened, but the reclamation of what was lost. Memory w
 This is what it means to reclaim your soul.
 
 And this is why he stayed.
+<div class="alchemy-divider"></div>
 
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/MANCROW.png" alt="Alt text" style="max-width: 100%;">
 </p>
+
 
 
 
