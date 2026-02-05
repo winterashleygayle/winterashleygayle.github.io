@@ -84,7 +84,8 @@ I became the watcher. The regulator. It felt like being awake inside a lucid nig
 
 There is a particular loneliness in being the one who stays awake while everyone else disappears into their demons. You are expected to understand without being understood. To forgive without being apologized to. To remain functional while everything meaningful collapses.
 
-The devil did not take me. But he took everything around me, and that has its own cost.
+The devil did not take me. 
+But he took everything around me, and that has its own cost.
 
 ## Letting My Mother Go
 
@@ -119,6 +120,50 @@ I can grieve her wounds without carrying them.
 I can release blame without denying reality.
 
 Her addiction was not my fault. Her relapse was not my failure. Her choices were not a verdict on my worth.
+
+## The One Who Was Not Taken
+
+As a spiritual person, I have often struggled to find language for something I experience without turning it into fantasy or self mythology. What I know is this: whatever moved through my family did not move through me in the same way.
+
+For a long time, I described this in spiritual terms. It felt as though I was insulated from something dense and corrosive, as though whatever force hollowed out the people I loved could not penetrate me. That sense of insulation did not feel like superiority or immunity. It felt costly. Like standing awake in the middle of a fire that burns everything else.
+
+In moments of grief, my mind reached for myth. I imagined something ancient and enraged, furious at its own limits, unable to consume me directly and instead circling outward, dismantling what I loved. Not as punishment, but as consequence. As a kind of displaced violence. I wondered whether this was simply a child’s imagination searching for meaning, turning pain into story because story is how humans survive the unbearable.
+
+But when I strip away the mythic language, what remains is something surprisingly scientific.
+
+Trauma does not distribute itself evenly. Addiction does not move randomly. These forces tend to take hold where nervous systems are already overwhelmed, dissociated, or organized around survival rather than integration. What spared me was not divine favoritism. It was pattern interruption.
+
+I stayed conscious.
+
+While others numbed, fragmented, or collapsed inward, my nervous system adapted toward vigilance and coherence. Hypervigilance is not protection in itself, but it does preserve awareness. Awareness is what addiction and self destruction require most to be absent. You cannot steal life force from someone who remains present to it.
+
+From a neurobiological perspective, resilience is not the absence of pain. It is the ability to metabolize it without dissociation. My family’s pain moved underground. Mine stayed awake.
+
+Spiritual language gave me a way to name this before science ever could. I felt surrounded, protected, held in moments when everything around me was unraveling. Whether one calls that angels, God, intuition, or an internalized secure attachment does not change the function. Something kept me from collapsing into the same fate.
+
+There were moments when I felt an unmistakable instruction to pause. To step back. To stay out of the line of fire. Not grand revelations, not booming voices, just quiet signals that said wait, sit, do not enter this terrain. From a psychological lens, this may have been my nervous system recognizing danger and choosing self preservation. From a spiritual lens, it felt like protection.
+
+Perhaps it does not matter which is true.
+
+What matters is that I listened.
+
+Being the one who survives carries its own weight. When everyone else falls, survival does not feel like victory. It feels like responsibility. It feels like guilt. Not the kind rooted in wrongdoing, but the kind that comes from witnessing. The kind that asks why me and not them.
+
+In spiritual traditions, this is sometimes framed as karma. In psychology, it is called survivor’s guilt. Both point to the same truth. Awareness has a cost. Consciousness carries burden. Knowing means you cannot look away.
+
+My family lived out their pain in their bodies. I carried mine in my mind.
+
+That is not a moral distinction. It is a nervous system outcome.
+
+Your mind is your karma in the sense that whatever remains conscious must be carried, integrated, and transformed. What is numbed repeats. What is seen has the chance to end.
+
+If there is a force beneath this story, it is not a devil and it is not a god at war. It is entropy versus integration. Collapse versus coherence. Dissociation versus presence.
+
+What took my family was not rage. It was disconnection.
+
+What spared me was not holiness. It was staying awake.
+
+And that, too, has a price.
 
 ### What Remains
 <p style="text-align: center; margin: 3rem 0;">
