@@ -12,7 +12,7 @@ author: awinter
 ---
 
 
-more coming soon...
+There is more to say about my brother, and I will say it when the time is right. For now, this is the part that cannot be skipped.
 
 ## The Day the Music Died
 
@@ -43,6 +43,7 @@ Not because my brother was weak. Not because he failed. But because his death re
 His death was not an ending. It was an opening.
 
 An opening that swallowed everything that came after.
+
 
 
 
