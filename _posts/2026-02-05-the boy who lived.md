@@ -56,11 +56,54 @@ He was there to help me reclaim myself.
 
 Only later did I understand that his presence was not about death. It was about survival. About remaining intact through experiences that would otherwise fracture the soul. He knew, in a way I could not yet know, that the road ahead would require endurance rather than escape.
 
-And he stayed.
+### And he stayed.
+
+What I did not understand then was that his presence was not meant to comfort me through grief alone. It was meant to accompany me into terrain I had not yet entered.
+
+I was standing at the threshold of a long journey into my own mind.
+
+I would spend years opening doors I had sealed shut in childhood. Sifting through memories and sensations that still haunt me to this day. Experiences no child should ever have to metabolize. Fragments of self that had been split off in order to survive. Pieces of me that did not disappear, but lived elsewhere, suspended in other internal worlds where time did not move forward.
+
+There was a little girl whose life had been interrupted too early. A body that endured what no body should endure. Abuse. Terror. Violation. Neglect. Being discarded rather than protected. The psyche did what it had to do. It fractured in order to keep breathing.
+
+In clinical language, this is trauma. Dissociation. Survival adaptation.
+
+In shamanic traditions, it is called soul loss.
+
+And the work of returning to oneself is called soul retrieval.
+
+For a long time, I could not reconcile these two frameworks. I feared that acknowledging the depth of what I had survived meant admitting I was broken beyond repair. I mistook fragmentation for madness. I worried that remembering meant losing myself completely, that I would become the very chaos I was trying to understand.
+
+But my body never stopped breathing. My mind never fully disappeared. Something in me remained intact enough to return.
+
+What I did not know then was that my brother understood this terrain instinctively. Whether one believes this is psychological, symbolic, or spiritual matters less than the function it served. He stayed close in the places where I was most likely to lose my footing. He appeared not to rescue me, but to orient me. To remind me that descent was not the same as annihilation.
+
+I told myself, at first, that this was a story I was inventing to survive. A myth to make meaning of unbearable pain. Perhaps it was. But stories are how humans retrieve themselves when logic fails. Narrative is not delusion. It is integration.
+
+This was not a fairy tale.
+
+There was no knight in shining armor. No man arriving to save me. No external force undoing what had been done.
+
+If this is a Cinderella story, it is one without enchantment or rescue. No glass slipper. No sudden transformation.
+
+The one who came back for me was me.
+
+Slowly. Painfully. Over years. With support. With therapy. With awareness. With the willingness to sit in the dark long enough to see what was there without turning away.
+
+My brother did not pull me out of the underworld. He stood at the edge while I went in myself. And in time, I understood that this was the bond we shared beyond death. Not dependence. Not fantasy. But companionship through a passage that could not be avoided.
+
+What returned to me was not innocence. It was sovereignty.
+
+Not the erasure of what happened, but the reclamation of what was lost. Memory without annihilation. Awareness without collapse. A self that could hold the truth and remain whole.
+
+This is what it means to reclaim your soul.
+
+And this is why he stayed.
 
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/MANCROW.png" alt="Alt text" style="max-width: 100%;">
 </p>
+
 
 
 
