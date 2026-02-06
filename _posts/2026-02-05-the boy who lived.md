@@ -20,7 +20,7 @@ There is more to say about my brother, and I will say it when the time is right.
 <div class="alchemy-divider"></div>
 
 
-My brother did not die quietly in the sense people mean when they try to soften the truth. His death was loud in its aftermath, destabilizing in ways that rippled through everything that came after. The circumstances were complicated, contested, and heavy with unanswered questions. What mattered most, though, was not the speculation. It was the rupture.
+My brother didn’t die quietly, not in the way people mean when they try to soften the truth. His death was loud in the way it changed everything after. It shook things loose. It destabilized. I’ve always called it the Perfect Storm. There were so many chances to save him that day, but none of them did. At the time, it felt as if he was supposed to die, as if his mission was somehow over. The circumstances were messy, disputed, and left a lot of unanswered questions. But what stayed with me wasn’t the speculation. It was the rupture.
 
 What I did not expect was that he did not disappear.
 
@@ -112,6 +112,7 @@ I recognize his presence by the way he responds. He never gives direct answers. 
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/MANCROW.png" alt="Alt text" style="max-width: 100%;">
 </p>
+
 
 
 
