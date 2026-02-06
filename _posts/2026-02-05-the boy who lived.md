@@ -28,7 +28,7 @@ In the days after his death, he began to show up in a way I did not understand a
 
 For more than a decade, I refused to believe this meant anything beyond grief.
 
-I told myself I had made him up. That my mind, shattered by loss, had created an imaginary guide to cope with the absence. That this was what trauma did. It filled the silence with invention. I was convinced that if I acknowledged him as anything more, I would be admitting that I had lost my grip on reality.
+I told myself I had made him up. That my mind, shattered by loss, had created an imaginary friend to cope with the absence. That this was what trauma did. It filled the silence with invention. I was convinced that if I acknowledged him as anything more, I would be admitting that I had lost my grip on reality.
 
 So I argued with myself instead.
 
@@ -112,6 +112,7 @@ I recognize his presence by the way he responds. He never gives direct answers. 
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/MANCROW.png" alt="Alt text" style="max-width: 100%;">
 </p>
+
 
 
 
