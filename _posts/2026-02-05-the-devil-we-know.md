@@ -3,7 +3,7 @@ date: 2026-02-05 00:01:00 -0800
 layout: post
 title: The Devil took my Family
 subtitle: ""
-description: The Devil We Know
+description: 
 dark_post: true
 image: /assets/img/uploads/deviltimcurry.jpg
 optimized_image: /assets/img/uploads/deviltimcurry.jpg
