@@ -235,7 +235,7 @@ Every zodiac combination carries an initiatory current. Fire Horse is initiation
 It does not ask, “Are you comfortable?”
 It asks, “Are you ready?”
 
-In mythic language, this is the year where the gate opens — but you must step through.
+In mythic language, this is the year where the gate opens, but you must step through.
 
 It is the crossing of the threshold in Joseph Campbell’s Hero’s Journey.
 It is when the ordinary world becomes too small to contain you.
