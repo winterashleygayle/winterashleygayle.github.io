@@ -43,6 +43,7 @@ Acting from unhealed trauma
 
 This is why shadow work is not optional in a Fire Horse year.
 You must know your triggers before you gallop.
+<div class="alchemy-divider"></div>
 
 ### For Those specifically in the work. 
 You are already doing dream work. You are metabolizing trauma instead of performing strength. That matters.
@@ -65,6 +66,7 @@ Keep nervous system regulation as your foundation
 Momentum with grounding.
 Fire with containment.
 Horse with reins.
+<div class="alchemy-divider"></div>
 
 ## Connecting With Spirit Guides and Energies
 In Chinese cosmology and in many indigenous traditions, the unseen world is not fantasy. It is layered reality.
@@ -100,6 +102,7 @@ Pay attention to synchronicities without assigning cosmic meaning to everything.
 
 Spirit communication without grounding becomes projection.
 Discernment is spiritual maturity.
+<div class="alchemy-divider"></div>
 
 ## About the Collective and 2026
 Culturally, we are already seeing shifts in technology, AI, space exploration, and the conversation around non-human intelligence. Whether or not disclosure unfolds dramatically, the psyche of humanity is shifting.
@@ -202,6 +205,8 @@ It can forge you.
 <video autoplay muted loop playsinline controls class="post-video">
   <source src="/assets/img/uploads/firehorse.mp4" type="video/mp4">
 </video>
+<div class="alchemy-divider"></div>
+
 
 ## The Cosmic Symbolism of Horse and Fire
 
@@ -245,6 +250,8 @@ Horse outruns avoidance.
 Together, they dismantle false identities.
 
 If you have built structures around survival instead of truth, Fire Horse energy will test them. Not as punishment. As purification.
+<div class="alchemy-divider"></div>
+
 
 ## The Spiritual Fire: Heart as Compass
 
@@ -270,6 +277,8 @@ True spiritual maturity during a Fire Horse year means:
 Passion without possession.
 Vision without delusion.
 Speed without dissociation.
+<div class="alchemy-divider"></div>
+
 
 ## Mythological Parallels Across Traditions
 
@@ -291,6 +300,8 @@ In 2026, this archetype may manifest culturally as rapid shifts in ideology, acc
 But mythologically, when heaven’s horses move faster, humans must strengthen their inner ground.
 
 Otherwise, velocity becomes destabilization.
+<div class="alchemy-divider"></div>
+
 
 ## Spirit Guides in a Fire Horse Year
 
@@ -323,6 +334,8 @@ Ask for guidance that strengthens your sovereignty, not dependency.
 
 True guides increase agency.
 False guidance increases fantasy.
+<div class="alchemy-divider"></div>
+
 
 ## Collective Acceleration and Non-Human Intelligence
 
@@ -350,9 +363,15 @@ This is why your anchor must remain embodiment.
 
 The myth does not save you.
 Your integration does.
+<div class="alchemy-divider"></div>
+
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/firehorsenorthernlights.png" alt="Alt text" style="max-width: 100%;">
-</p>## Fire Horse and the Shadow Initiation
+</p>
+
+
+
+## Fire Horse and the Shadow Initiation
 
 Wildfire does not only burn dead wood.
 It reveals where rot has been hidden.
@@ -419,6 +438,9 @@ It is how we learned to travel farther than we ever imagined.
 It is about sovereignty.
 
 Ride wisely.
+<div class="alchemy-divider"></div>
+
+
 
 ## Are there any indigenous teachings that can be taught or pulled from this? Shamaism, Native American or any other cultures besided the Chinese Zodiac?
 
@@ -429,6 +451,8 @@ There are absolutely parallel teachings in Indigenous, shamanic, and earth-based
 What we can do is look at archetypal resonance; where different cultures independently recognized similar forces in nature.
 
 Below are traditions that meaningfully echo Fire Horse themes.
+<div class="alchemy-divider"></div>
+
 
 ## The Sacred Fire in Indigenous Traditions
 Across many Native American traditions, Fire is not just an element. It is a relative. A teacher. A purifier.
@@ -458,6 +482,9 @@ Unattended fire destroys villages.
 Tended fire sustains life.
 
 That mirrors your emphasis on regulation and discernment.
+
+
+
 <div class="alchemy-divider"></div>
 
 ## The Horse in Native American Cosmology
