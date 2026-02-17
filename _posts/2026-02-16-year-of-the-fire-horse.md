@@ -5,8 +5,8 @@ title: Fire Horse
 subtitle: ""
 description: The Year We Blaze Forward
 dark_post: true
-image: /assets/img/uploads/firehorse.jpeg
-optimized_image: /assets/img/uploads/firehorse.jpeg
+image: /assets/img/uploads/firehorse.png
+optimized_image: /assets/img/uploads/firehorse.png
 category: inspire
 tags: zodiac 
 author: awinter
