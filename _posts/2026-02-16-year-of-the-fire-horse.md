@@ -363,6 +363,7 @@ This is why your anchor must remain embodiment.
 
 The myth does not save you.
 Your integration does.
+
 <div class="alchemy-divider"></div>
 
 <p style="text-align: center; margin: 3rem 0;">
@@ -438,14 +439,15 @@ It is how we learned to travel farther than we ever imagined.
 It is about sovereignty.
 
 Ride wisely.
+
 <div class="alchemy-divider"></div>
 
 
 <p style="text-align: center; margin: 3rem 0;">
   <img src="/assets/img/uploads/firehorseglowing.png" alt="Alt text" style="max-width: 100%;">
+</p>
 
-  
-</p>## Are there any indigenous teachings that can be taught or pulled from this? Shamanism, Native American or any other cultures besided the Chinese Zodiac?
+## Are there any indigenous teachings that can be taught or pulled from this? Shamanism, Native American or any other cultures besided the Chinese Zodiac?
 
 Yes, but with care.
 
@@ -454,6 +456,7 @@ There are absolutely parallel teachings in Indigenous, shamanic, and earth-based
 What we can do is look at archetypal resonance; where different cultures independently recognized similar forces in nature.
 
 Below are traditions that meaningfully echo Fire Horse themes.
+
 <div class="alchemy-divider"></div>
 
 
@@ -517,7 +520,7 @@ It is about right relationship with power.
 
 
 
-<div class="alchemy-symbol">𓂀/div>
+<div class="alchemy-symbol">𓂀</div>
 
 <div class="alchemy-divider"></div>
 
@@ -547,6 +550,7 @@ But the shaman must be trained.
 Untrained movement between realms leads to fragmentation.
 
 Again...discernment.
+
 <div class="alchemy-divider"></div>
 ## Alchemical and Celtic Echoes
 
@@ -573,7 +577,9 @@ You can frame it as:
 “Across many earth-based traditions, fire and horse independently carry themes of purification, mobility, sovereignty, and spirit communication.”
 
 That keeps integrity intact.
-<div class="alchemy-divider"></div>## Where This Connects to Me, the writer.
+<div class="alchemy-divider"></div>
+
+## Where This Connects to Me, the writer.
 I am apprenticing in shamanic work.
 I am doing dream integration.
 I am consciously working with archetypes.
@@ -610,3 +616,5 @@ Spirit practiced with humility?
 
 That is medicine.
 <div class="alchemy-divider"></div>
+
+<div class="alchemy-symbol">△</div>
