@@ -255,7 +255,7 @@ If you have built structures around survival instead of truth, Fire Horse energy
 
 ## The Spiritual Fire: Heart as Compass
 
-Fire corresponds to the heart meridian in Chinese medicine. This is not symbolic only — it is physiological and energetic.
+Fire corresponds to the heart meridian in Chinese medicine. This is not symbolic only, it is physiological and energetic.
 
 A Fire Horse year amplifies:
 
