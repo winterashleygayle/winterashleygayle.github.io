@@ -441,8 +441,11 @@ Ride wisely.
 <div class="alchemy-divider"></div>
 
 
+<p style="text-align: center; margin: 3rem 0;">
+  <img src="/assets/img/uploads/firehorseglowing.png" alt="Alt text" style="max-width: 100%;">
 
-## Are there any indigenous teachings that can be taught or pulled from this? Shamanism, Native American or any other cultures besided the Chinese Zodiac?
+  
+</p>## Are there any indigenous teachings that can be taught or pulled from this? Shamanism, Native American or any other cultures besided the Chinese Zodiac?
 
 Yes, but with care.
 
@@ -514,7 +517,7 @@ It is about right relationship with power.
 
 
 
-<div class="alchemy-symbol">△</div>
+<div class="alchemy-symbol">𓂀/div>
 
 <div class="alchemy-divider"></div>
 
