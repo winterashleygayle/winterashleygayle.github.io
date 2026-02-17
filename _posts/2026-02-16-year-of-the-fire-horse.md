@@ -18,3 +18,7 @@ author: awinter
 
 
 
+<video autoplay muted loop playsinline controls class="post-video">
+  <source src="/assets/img/uploads/firehorse.mp4" type="video/mp4">
+</video>
+
