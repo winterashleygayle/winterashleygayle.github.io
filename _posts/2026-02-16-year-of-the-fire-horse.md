@@ -227,6 +227,8 @@ This combination historically frightened cultures not because it was evil, but b
 Archetypally, this is Prometheus energy.
 This is the wild mustang crossing borders.
 This is the phoenix mid-flight, not mid-ashes.
+<div class="alchemy-divider"></div>
+
 
 ## Fire Horse as Initiation
 
