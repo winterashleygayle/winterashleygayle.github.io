@@ -442,7 +442,7 @@ Ride wisely.
 
 
 
-## Are there any indigenous teachings that can be taught or pulled from this? Shamaism, Native American or any other cultures besided the Chinese Zodiac?
+## Are there any indigenous teachings that can be taught or pulled from this? Shamanism, Native American or any other cultures besided the Chinese Zodiac?
 
 Yes, but with care.
 
