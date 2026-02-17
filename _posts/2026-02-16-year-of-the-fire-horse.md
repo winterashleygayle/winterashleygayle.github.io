@@ -350,8 +350,9 @@ This is why your anchor must remain embodiment.
 
 The myth does not save you.
 Your integration does.
-
-## Fire Horse and the Shadow Initiation
+<p style="text-align: center; margin: 3rem 0;">
+  <img src="/assets/img/uploads/firehorsenorthernlights.png" alt="Alt text" style="max-width: 100%;">
+</p>## Fire Horse and the Shadow Initiation
 
 Wildfire does not only burn dead wood.
 It reveals where rot has been hidden.
@@ -457,6 +458,7 @@ Unattended fire destroys villages.
 Tended fire sustains life.
 
 That mirrors your emphasis on regulation and discernment.
+<div class="alchemy-divider"></div>
 
 ## The Horse in Native American Cosmology
 The horse was introduced to North America by Europeans, yet many Plains tribes integrated the horse spiritually with astonishing speed.
@@ -478,6 +480,16 @@ A relationship between human and animal spirit.
 That adds something profound to your Fire Horse lens:
 This is not about riding wild energy alone.
 It is about right relationship with power.
+
+<p style="text-align: center; margin: 3rem 0;">
+  <img src="/assets/img/uploads/firehorseshaman.png" alt="Alt text" style="max-width: 100%;">
+</p>
+
+
+
+<div class="alchemy-symbol">△</div>
+
+<div class="alchemy-divider"></div>
 
 ## Shamanic Perspective: Fire as Initiator, Horse as Psychopomp
 In various Central Asian shamanic traditions (Mongolian, Siberian):
@@ -505,7 +517,7 @@ But the shaman must be trained.
 Untrained movement between realms leads to fragmentation.
 
 Again...discernment.
-
+<div class="alchemy-divider"></div>
 ## Alchemical and Celtic Echoes
 
 In Celtic mythology:
@@ -531,8 +543,7 @@ You can frame it as:
 “Across many earth-based traditions, fire and horse independently carry themes of purification, mobility, sovereignty, and spirit communication.”
 
 That keeps integrity intact.
-
-## Where This Connects to Me, the writer.
+<div class="alchemy-divider"></div>## Where This Connects to Me, the writer.
 I am apprenticing in shamanic work.
 I am doing dream integration.
 I am consciously working with archetypes.
@@ -568,3 +579,4 @@ Horse ridden in partnership?
 Spirit practiced with humility?
 
 That is medicine.
+<div class="alchemy-divider"></div>
