@@ -339,7 +339,7 @@ False guidance increases fantasy.
 
 ## Collective Acceleration and Non-Human Intelligence
 
-You referenced the idea of disclosure and shifting consciousness.
+I reference the idea of disclosure and shifting consciousness.
 
 Mythologically, when humanity stands at the edge of paradigm shifts, archetypes of “sky beings” or “star ancestors” re-emerge. This has happened in every civilization during times of cultural upheaval.
 
