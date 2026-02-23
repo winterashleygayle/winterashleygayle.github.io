@@ -5,8 +5,8 @@ title: Girl Interupted
 subtitle: ""
 description: The Hero's Journey
 dark_post: true
-image: /assets/img/uploads/snow.jpeg
-optimized_image: /assets/img/uploads/snow.jpeg
+image: /assets/img/uploads/green.jpeg
+optimized_image: /assets/img/uploads/green.jpeg
 category: inspire
 tags: soul retrieval
 author: awinter
