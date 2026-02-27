@@ -29,6 +29,9 @@ In the Major Arcana, Temperance comes after upheaval and before embodiment. It o
 
 This is not beginner energy. It’s post-initiation. It’s the moment where someone has done enough inner work that they no longer swing between extremes, and that alone can deeply unsettle people who still do  
 
+<div class="alchemy-divider"></div>
+
+
 
 ## 1. When you change, the system reacts
 Most people exist inside quiet, unspoken agreements. Who stays agreeable. Who stays quiet. Who absorbs discomfort. When you step out of a role you used to play, even subtly, it destabilizes the system around you. People aren’t reacting to what you’re saying as much as the fact that you’re no longer predictable or containable. That alone can feel threatening to others, even if your words are calm and grounded.
