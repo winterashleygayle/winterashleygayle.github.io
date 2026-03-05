@@ -56,6 +56,6 @@ What I am learning is that clarity does not always come from pushing harder or d
 For now I am comfortable sitting in that pause. I can look at myself honestly, reflect on what I am learning, and smile at the recognition that I do not need the answer immediately. Sometimes the most important step forward is simply giving yourself permission to listen.
 
 <video autoplay muted loop playsinline controls class="post-video">
-  <source src="/assets/img/uploads/firehorse.mp4" type="video/mp4">
+  <source src="/assets/img/uploads/video-1772378268-1.mp4" type="video/mp4">
 </video>
 <div class="alchemy-divider"></div>
