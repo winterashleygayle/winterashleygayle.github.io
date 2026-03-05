@@ -3,7 +3,7 @@ date: 2026-03-05
 layout: post
 title: Soul Fatigue
 subtitle: ""
-description: The Year We Blaze Forward
+description: I'm tired. 
 dark_post: true
 image: /assets/img/uploads/video-1772378268-1.mp4
 optimized_image: /assets/img/uploads/video-1772378268-1.mp4
