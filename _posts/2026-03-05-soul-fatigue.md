@@ -5,8 +5,8 @@ title: Soul Fatigue
 subtitle: ""
 description: The Year We Blaze Forward
 dark_post: true
-image: /assets/img/uploads/ashmystic.jpeg
-optimized_image: /assets/img/uploads/ashmystic.jpeg
+image: /assets/img/uploads/video-1772378268-1.mp4
+optimized_image: /assets/img/uploads/video-1772378268-1.mp4
 category: inspire
 tags: the push 
 author: awinter
