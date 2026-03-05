@@ -5,8 +5,8 @@ title: Soul Fatigue
 subtitle: ""
 description: I'm tired. 
 dark_post: true
-image: /assets/img/uploads/video-1772378268-1.mp4
-optimized_image: /assets/img/uploads/video-1772378268-1.mp4
+image: /assets/img/uploads/soulfatigue.jpeg
+optimized_image: /assets/img/uploads/soulfatigue.jpeg
 category: inspire
 tags: the push 
 author: awinter
