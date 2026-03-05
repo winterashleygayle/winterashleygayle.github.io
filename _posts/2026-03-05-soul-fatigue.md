@@ -54,3 +54,8 @@ In a world that constantly encourages us to do more, there is real wisdom in lea
 What I am learning is that clarity does not always come from pushing harder or deciding faster. Sometimes it comes from allowing space. From listening to the quieter voice inside that is not competing with the noise of the outside world.
 
 For now I am comfortable sitting in that pause. I can look at myself honestly, reflect on what I am learning, and smile at the recognition that I do not need the answer immediately. Sometimes the most important step forward is simply giving yourself permission to listen.
+
+<video autoplay muted loop playsinline controls class="post-video">
+  <source src="/assets/img/uploads/firehorse.mp4" type="video/mp4">
+</video>
+<div class="alchemy-divider"></div>
