@@ -21,7 +21,7 @@ Recently I found myself in one of those moments and I’ve been quietly smiling 
 
 Last week I had a really interesting conversation with a friend about my career. Things are moving in a positive direction and I recently presented a proposal that involved a 25 percent position in something I am working toward. It felt like a reasonable starting point to me.
 
-But when I mentioned this to a few friends, several of them had the same reaction. They asked why I would begin at 25 percent if I am already contributing significant value. Their perspective was simple: if the work being brought to the table is closer to 50 percent of the effort or responsibility, why not start the conversation there?
+But when I mentioned this to a few friends, several of them had the same reaction. They asked why I would begin at 25 percent if I am already contributing significant value and 50 is what I eventually want. Their perspective was simple: if the work being brought to the table is closer to 50 percent of the effort or responsibility, why not start the conversation there?
 
 That question shifted something in my thinking. It made me pause and examine how we value our contributions. Sometimes we instinctively start small because it feels safer or more modest. But there are moments in life when beginning from a place of confidence and clarity about our value may actually be the more honest position.
 
