@@ -8,7 +8,7 @@ dark_post: true
 image: /assets/img/uploads/meandmom.jpeg
 optimized_image: /assets/img/uploads/meandmom.jpeg
 category: inspire
-tags: compassion fatigue, caregiving, trauma
+tags: caregiving
 author: awinter
 
 ---
