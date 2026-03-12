@@ -8,12 +8,12 @@ dark_post: true
 image: /assets/img/uploads/meandmom.jpeg
 optimized_image: /assets/img/uploads/meandmom.jpeg
 category: inspire
-tags: 
+tags: compassion fatigue, caregiving, trauma
 author: awinter
 
 ---
 
-## Compassion Fatigue: When Love, Duty, and Old Wounds Collide**
+## Compassion Fatigue: When Love, Duty, and Old Wounds Collide
 
 There is a particular kind of exhaustion that comes from loving someone who cannot or will not take care of themselves.
 
