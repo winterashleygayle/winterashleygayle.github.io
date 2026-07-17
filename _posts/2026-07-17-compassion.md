@@ -1,7 +1,7 @@
 ---
 date: 2026-07-17
 layout: post
-title: Compassion Fatigue
+title: Thank You for Being Here
 subtitle: ""
 description: I am fucking over this 
 dark_post: true
@@ -13,10 +13,10 @@ author: awinter
 
 ---
 
-# Thank You for Being Here 
+#  Compassion Fatigue
 <div class="alchemy-divider"></div>
 
-### Compassion Fatigue: When Love, Duty, and Old Wounds Collide
+### When Love, Duty, and Old Wounds Collide
 
 For some caregivers the story is straightforward: a parent becomes ill, roles reverse, and a son or daughter steps in to help. But for others, the act of caregiving carries a complicated history beneath it. The parent who now needs help may also be the same parent who once caused deep confusion, neglect, or trauma. When those histories collide with the demands of illness and aging, caregiving becomes something far more complex than an act of duty. It becomes a psychological reckoning.
 
