@@ -6,6 +6,7 @@ subtitle: ""
 description: Don't Fear the Reaper 
 dark_post: true
 image: /assets/img/uploads/reaper.png
+image_position: center top
 optimized_image: /assets/img/uploads/reaper.png
 category: inspire
 tags: Death
