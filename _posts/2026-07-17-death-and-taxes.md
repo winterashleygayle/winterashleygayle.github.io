@@ -18,7 +18,8 @@ author: awinter
 
 
 <div class="alchemy-divider"></div>
-### For the past several years, I’ve worked in the tax world, where many of our clients are retired. Every year, one of the lists that changes the most isn’t a spreadsheet of numbers—it’s the list of clients who are no longer with us.
+
+For the past several years, I’ve worked in the tax world, where many of our clients are retired. Every year, one of the lists that changes the most isn’t a spreadsheet of numbers—it’s the list of clients who are no longer with us.
 
 Sometimes the call comes from a spouse. Sometimes from an attorney, a financial advisor, or an estate planner. “I’m sorry to let you know…”
 
