@@ -14,6 +14,7 @@ author: awinter
 ---
 
 # Thank You for Being Here 
+<div class="alchemy-divider"></div>
 
 ### Compassion Fatigue: When Love, Duty, and Old Wounds Collide
 
@@ -43,6 +44,8 @@ She moved two hours south to live closer to me, and for the next five years I be
 
 Inside, I was slowly disappearing.
 
+<div class="alchemy-divider"></div>
+
 Compassion fatigue often develops when caregivers give continuously without adequate emotional recovery. But it becomes especially profound when the caregiver has spent a lifetime believing someone else's survival depends upon them.
 
 Looking back, I can see that I had been assigned that role long before adulthood. As a child, I was repeatedly told to take care of my mother. Her emotions, her stability, and eventually her health quietly became my responsibility. By the time she became ill, caregiving no longer felt like a choice. It felt like muscle memory.
@@ -63,7 +66,7 @@ Today, I recognize it as survival.
 
 When her health declined further and she was admitted to the hospital for the final time, I found my way back to her bedside.
 
-The hospital became its own strange little world. Days blurred together. Time was measured in medication schedules, blood draws, conversations with nurses, and the quiet rhythm of machines. Somewhere during those two weeks I realized my role had changed. I was no longer trying to save her. I was simply there to love her through whatever came next.
+The hospital became its own strange little world. Days blurred together. Time was measured in medication schedules, blood draws, conversations with nurses, and the rhythm of machines. Somewhere during those two weeks I realized my role had changed. I was no longer trying to save her. I was simply there to love her through whatever came next.
 
 Eventually, she made the deeply personal decision to stop dialysis and allow her illness to follow its natural course.
 
@@ -91,9 +94,7 @@ I argued with her. I didn't understand what she could possibly be proud of.
 
 Those words settled somewhere deep inside me, filling a space I hadn't realized was still waiting to be seen.
 
-As the days passed, she became less and less conscious. Near the end, speaking required tremendous effort. During one particularly painful moment she turned toward me, grimaced, leaned close, and forced out a whisper.
-
-"Thank you for being here."
+As the days passed, she became less and less conscious. Near the end, she did'nt speak much. During one particularly painful moment she turned toward me and said "Thank you for being here."
 
 I have never forgotten those words.
 
@@ -117,9 +118,7 @@ The humanity that precedes it.
 
 Sitting beside my mother's hospital bed, witnessing the slow rhythm of dying, I discovered that my presence mattered more than my words ever could. I learned that sometimes the greatest gift we can offer another person is simply our willingness to stay.
 
-Years later, when I first learned about death doulas, something inside me became unexpectedly still.
-
-Their work felt strangely familiar.
+Years later, when I first learned about death doulas, their work felt strangely familiar.
 
 Not because I had ever planned to accompany people through death, but because I already had.
 
@@ -137,8 +136,6 @@ To remain present when others felt afraid.
 
 For most of my life, I thought my story was about surviving loss.
 
-Now I wonder if it has been quietly preparing me to help others navigate theirs.
+Now I wonder if it has been quietly preparing me to help others navigate theirs?
 
-Death is not only about endings.
-
-Sometimes it reveals the deepest truths about how to live.
+<div class="alchemy-divider"></div>
