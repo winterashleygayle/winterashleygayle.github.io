@@ -32,7 +32,7 @@ The news arrived on an otherwise ordinary afternoon. A phone call from someone I
 
 I remember sitting outside in the sun, stunned, as the version of my family I had carried for so long quietly fell apart. The shock was profound. For weeks, I wrestled with disbelief, wondering how something so significant could have existed just beyond my awareness and questioning whether what I had been told could possibly be true.
 
-Eventually my mother admitted some of it, though she minimized it. Addiction often travels with denial, and in families touched by substance use there can be an unspoken agreement to avoid the truth. Silence becomes its own kind of protection.
+Eventually my mother admitted some of it, though she minimized it. Addiction often travels with denial, and in families touched by substance use, there can be an unspoken agreement to avoid the truth. Silence becomes its own kind of protection.
 
 Over the next several years, addiction continued to unravel my family in painful ways. It brought us frighteningly close to losing people I loved and eventually claimed my brother's life when he could no longer bear the agony of withdrawal.
 
