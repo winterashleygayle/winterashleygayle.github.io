@@ -1,6 +1,7 @@
 ---
 date: 2026-07-17
 layout: post
+published: false
 title: Death & Taxes
 subtitle: ""
 description: Don't Fear the Reaper 
@@ -17,12 +18,52 @@ author: awinter
 
 # Death & Taxes 
 
+**More Cowbell**
+
+Don't fear the Reaper when shadows descend;
+he's never the story; he's only a bend.
+The pages keep turning, the chapters unfold;
+the soul isn't measured by growing old.
+
+The ego builds castles of "mine" and "me,"
+then life sends the tide to reclaim the sea.
+The walls fall away, the masks all depart;
+what's left is the spark at the core of the heart.
+
+The Gnostics would whisper, "Remember the flame.
+Before you were given a body or name.
+You've worn many faces, but one thing stays true:
+The Light isn't searching—it's always been you."
+
+So kiss with conviction. Cry rivers. Forgive.
+The point isn't forever—the point is to live.
+Collect every sunrise, each bruise and each scar;
+they teach you how wondrously human you are.
+
+Death doulas know something few words can explain:
+that endings aren't failures or measures of pain.
+They sit at the threshold with silence and grace,
+while love gently loosens its earthly embrace.
+
+So laugh until tears are the price that you pay.
+Dance hard in the kitchen. Get lost on the way.
+Take pictures of moments that never stand still;
+tomorrow is promised to no one who will.
+
+When finally I meet what I've feared all along,
+I hope I arrive like the end of a song—
+Not clinging to echoes of who I once fell,
+But smiling and thinking...
+
+'that went really well' 
+
+
 
 <div class="alchemy-divider"></div>
 
-For the past several years, I’ve worked in the tax world, where many of our clients are retired. Every year, one of the lists that changes the most isn’t a spreadsheet of numbers—it’s the list of clients who are no longer with us.
+For the past several years, I’ve worked in the tax world, where many of our clients are retired. Every year, one of the lists that changes the most is the list of clients who are no longer with us.
 
-Sometimes the call comes from a spouse. Sometimes from an attorney, a financial advisor, or an estate planner. “I’m sorry to let you know…”
+Sometimes the call comes from a spouse. Sometimes from an attorney, a financial advisor, or an estate planner informaing me that a client passed away. 
 
 No matter how many times I hear those words, they still give me pause.
 
