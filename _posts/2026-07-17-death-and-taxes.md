@@ -14,131 +14,28 @@ author: awinter
 ---
 
 
-# The Luck of Longing
+# Death & Taxes 
 
-## On karma, narcissism, and the quiet privilege of wanting God
-<div class="alchemy-divider"></div>
-### Dear Girl, 
-
-You will be born into a family system and a world that show you exactly who you are not.
-
-You will inherit patterns. Some will feel like home. Some will feel like cages disguised as tradition. Your work will be discernment, deciding what to release and what to carry forward.
-
-This is your karma.
-
-At first you will misunderstand karma. You will think it is punishment or reward.
-
-It is neither.
-
-It is curriculum.
 
 <div class="alchemy-divider"></div>
-## Longing Is Not Random
+### For the past several years, I’ve worked in the tax world, where many of our clients are retired. Every year, one of the lists that changes the most isn’t a spreadsheet of numbers—it’s the list of clients who are no longer with us.
 
-There is a quiet truth most people do not understand.
+Sometimes the call comes from a spouse. Sometimes from an attorney, a financial advisor, or an estate planner. “I’m sorry to let you know…”
 
-If you desire God
-If you ache for Source
-If you wrestle with the unseen
+No matter how many times I hear those words, they still give me pause.
 
-that is already grace.
+It’s strange how death and taxes become intertwined in this profession. One closes the books of a life while the other helps settle what remains. After enough years, you begin to notice that every tax return tells a story—not just of income and deductions, but of marriages, children, dreams fulfilled, businesses built, adventures taken, and lives quietly lived.
 
-There is a teaching often attributed to Paramahansa Yogananda:
+The past decade has changed my own relationship with death in ways I never expected. I’ve lost people I loved. I’ve grieved relationships that ended long before either of us stopped breathing. I’ve watched old versions of myself disappear and learned that some endings arrive without asking our permission.
 
-“To even want to know God is very, very, very good karma.”
+Somewhere along the way, I stopped seeing death only as something to fear and began seeing it as something to understand.
 
-In mystical traditions, yearning is remembered intimacy. The soul does not hunger for what it has never tasted. If you question, argue, pray, or surrender, something in you already recognizes Home.
+That search has led me through philosophy, psychology, and spirituality. It has introduced me to ideas like the Gnostic “divine spark,” the concept of ego death, and, most recently, the quiet and beautiful work of death doulas—people who help others meet life’s final transition with dignity, presence, and compassion.
 
-The longing itself is evidence.
+I don’t claim to know what happens after our last breath. But I’ve found peace in believing that love is never wasted, that transformation is woven into every stage of life, and that perhaps we are asked to let go many times before we are ever asked to say goodbye.
 
-That is luck of the highest order.
+So every time I get one of those phone calls, I’m reminded that none of us knows how many pages remain.
 
-Not material luck.
-Not romantic luck.
-Not social luck.
-
-Spiritual luck.
-
-Many people move through an entire lifetime without asking who they are beyond their persona. They do not dismantle ego. They do not question illusion. They do not ache for union.
-
-But some do.
-
-The Seeker awakens when the ego no longer satisfies the soul. It dismantles certainty. It strips identity. It feels like loss before it feels like liberation.
-
-But it is sacred.
-
+Which makes today a very good day to be fully alive.
 <div class="alchemy-divider"></div>
-## The Narcissist’s Karma
-
-Here is the difficult and liberating truth.
-
-The narcissist’s karma is narcissism.
-
-Not you.
-Not your worth.
-Not your inadequacy.
-
-Psychologically, narcissism is a defense structure built around a fractured self. It is grandiosity protecting unbearable shame. It is a personality organized around avoiding vulnerability at all costs.
-
-Mystically, it is ego crystallized.
-
-When someone is trapped inside that structure, they cannot soften. They cannot bow. They cannot surrender without feeling annihilated.
-
-That is their prison.
-
-And prison is karma.
-
-You cannot love someone out of that structure. You cannot explain yourself into being seen. You cannot behave perfectly enough to heal what they refuse to face.
-
-If they cannot see you, it is because they cannot see themselves.
-
-That is not cosmic punishment. It is consequence.
-
-
-<div class="alchemy-divider"></div>## Archetypal Polarity
-
-Narcissist. Ego enthroned.
-
-Mystic. Ego surrendered.
-
-Narcissist. Control.
-
-Mystic. Trust.
-
-Narcissist. Image management.
-
-Mystic. Authentic presence.
-
-Narcissist. External validation.
-
-Mystic. Internal communion.
-
-One archetype feeds on reflection from others. The other feeds on connection to Source.
-
-If you are longing, you are blessed.
-
-<div class="alchemy-divider"></div>
-## The Deep Luck
-
-You are lucky.
-
-Not because life has been easy.
-But because your heart bends toward the sacred instead of hardening around injury.
-
-You want truth more than image.
-You want intimacy with God more than dominance over others.
-You are willing to dismantle the ego rather than defend it.
-
-Some souls spend lifetimes building ego fortresses.
-
-Some souls spend lifetimes dismantling them.
-
-If you are dismantling, you are already homeward bound.
-
-Longing refines into devotion.
-Devotion refines into surrender.
-Surrender reveals what was always there.
-
-The luck was never external.
-It was the longing itself.
 
