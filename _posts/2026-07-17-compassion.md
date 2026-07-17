@@ -13,7 +13,7 @@ author: awinter
 
 ---
 
-## Thank You for Being Here 
+# Thank You for Being Here 
 
 ### Compassion Fatigue: When Love, Duty, and Old Wounds Collide
 
