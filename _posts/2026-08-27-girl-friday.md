@@ -5,8 +5,8 @@ title: Girl Friday
 subtitle: ""
 description: Jane of all Trades
 dark_post: true
-image: /assets/img/uploads/girlfriday.jpg
-optimized_image: /assets/img/uploads/girlfriday.jpg
+image: /assets/img/uploads/girlfriday.png
+optimized_image: /assets/img/uploads/girlfriday.png
 category: inspire
 tags: memoir 
 author: awinter
