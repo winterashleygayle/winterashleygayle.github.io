@@ -55,7 +55,7 @@ When someone hasn’t processed their own trauma or shadow material, they often 
 When you say you don’t care how many friends you lose, that’s not apathy. That’s discernment. Relationships built on your silence, self minimization, or emotional labor cannot survive your alignment. That doesn’t mean you’re harsh or closed. It means you’re no longer willing to fracture yourself to keep peace that was never mutual.
 <div class="alchemy-divider"></div>
 ## 7. Why it feels like you’re “holding up a mirror”
-You are. And mirrors don’t cause distortion, they reveal it. People who are doing their own work usually respond with curiosity, respect, or quiet reflection. People who aren’t often respond with defensiveness, projection, or attempts to destabilize you. The reaction tells you more about where they are than where you are.
+You are. And mirrors don’t cause distortion, they reveal it. People who are doing their own work usually respond with curiosity, respect, or quiet reflection. People who aren’t, often respond with defensiveness, projection, or attempts to destabilize you. The reaction tells you more about where they are than where you are.
 
 <div class="alchemy-divider"></div>
 
