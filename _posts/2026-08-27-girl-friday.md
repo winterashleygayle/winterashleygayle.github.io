@@ -1,16 +1,16 @@
 ---
-date: 2026-08-27
+date: 2026-07-17
 layout: post
-title: Girl Friday 
-subtitle: Jane of all trades 
-description: the girl who lived 
+title: Girl Friday
+subtitle: ""
+description: Jane of all Trades
+dark_post: true
 image: /assets/img/uploads/girl friday.jpg
 optimized_image: /assets/img/uploads/girl friday.jpg
-category: life
-tags:
-  - feminism 
-
+category: inspire
+tags: memoir 
 author: awinter
+
 ---
 
 # Girl Friday
