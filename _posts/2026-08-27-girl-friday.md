@@ -16,6 +16,8 @@ author: awinter
 # Girl Friday
 <div class="alchemy-divider"></div>
 
+Some women wait for someone to save the day. Others become Girl Friday.
+
 Lately, I’ve had a really interesting couple of weeks and several unexpected, really positive run-ins with elderly gentlemen who could easily be father or grandfather figures to me.
 
 It’s made me realize something about myself that I hadn’t fully understood before: I have mommy wounds, but my daddy wound feels less like a wound and more like a hole, which is a wound. There just… wasn’t really a father there.
@@ -108,7 +110,7 @@ And then letting go.
 
 I’ve always loved the idea behind Ask, and it is Given.
 
-Not necessarily as some scientifically proven formula because I know these are spiritual and esoteric ideas, not scientific facts — but as an expression of faith.
+Not necessarily as some scientifically proven formula because I know these are spiritual and esoteric ideas, not scientific facts but as an expression of faith.
 
 Faith that we don’t have to understand the entire path before taking the next step.
 
