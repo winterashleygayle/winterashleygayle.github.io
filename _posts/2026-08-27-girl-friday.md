@@ -139,7 +139,7 @@ Just asking for help…setting the intention…and paying attention when life an
 <div class="alchemy-divider"></div>
 
 
-# about that girl friday...
+# About that Girl Friday...
 
 For years, I might have heard that term and thought it meant the woman behind the scenes who does everything for everyone else.
 
