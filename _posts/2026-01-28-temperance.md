@@ -23,7 +23,9 @@ author: awinter
 ### Calm Your Tits
 
 # Emotional Alchemy 
-In the Major Arcana, Temperance comes after upheaval and before embodiment. It often appears when someone has already been through chaos, loss, or inner reckoning and is now learning how to live well with what they’ve survived.
+In the Major Arcana, Temperance comes after upheaval and before embodiment. It often appears when someone has already been through chaos, loss, or inner reckoning and is now learning how to live well with what they’ve survived. Temperance comes after Death (XIII), which represents profound transformation and shedding of an old form. Temperance then asks:
+
+### Now that you've changed, how do you actually learn to live as the person you've become?
 
 <div class="alchemy-divider"></div>
 
