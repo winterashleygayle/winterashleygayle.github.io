@@ -67,8 +67,11 @@ You’re not here to argue. You’re not here to convince. You’re not here to 
 
 
 And you’re right about one thing very clearly:
+
 You’re not shooting anyone in the foot.
+
 You’re just standing where you stand.
+
 What they do with that is theirs.
 
 
