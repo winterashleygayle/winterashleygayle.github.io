@@ -1,5 +1,5 @@
 ---
-date: 2026-07-17
+date: 2026-08-27
 layout: post
 title: Girl Friday
 subtitle: ""
