@@ -71,6 +71,8 @@ You’re not shooting anyone in the foot.
 You’re just standing where you stand.
 What they do with that is theirs.
 
+<div class="copyright">© Ashley Winter 2026</div>
+
 <div class="alchemy-symbol">△</div>
 
 
