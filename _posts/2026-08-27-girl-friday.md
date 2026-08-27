@@ -4,8 +4,8 @@ layout: post
 title: Girl Friday 
 subtitle: jane of all trades 
 description: the girl who lived 
-image: /assets/img/uploads/mandog.jpeg
-optimized_image: /assets/img/uploads/mandog.jpeg
+image: /assets/img/uploads/girl friday.jpg
+optimized_image: /assets/img/uploads/girl friday.jpg
 category: life
 tags:
   - feminism 
