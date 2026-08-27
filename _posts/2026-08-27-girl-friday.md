@@ -137,36 +137,26 @@ Just asking for help…setting the intention…and paying attention when life an
 <div class="alchemy-divider"></div>
 
 
-# Girl Friday.
+# about that girl friday...
 
 For years, I might have heard that term and thought it meant the woman behind the scenes who does everything for everyone else.
 
 But maybe there’s another way to look at it.
 
 I’m a Girl Friday.
-
 I’m a Jane of all trades.
-
 I can work a tax return. I can put together a spreadsheet. I can work with computers and AI. I can create art. I can figure out technology. I can go back to school and work toward an accounting degree and a CPA license.
-
 I can change the water pump in my Jeep.
-
 I can turn a wrench.
-
-I can take care of elderly people.
-
+I can take care of myself.
+I can take care of people.
 I can survive tax season.
-
 I can learn something completely new and figure it out.
 
 I’ve done a lot of things in my life.
-
 And when I look at the whole picture, I realize something:
-
 I’ve already lived a very full life.
-
 Not a perfect one. Not an easy one.
-
 But a full one.
 
 
@@ -176,10 +166,11 @@ I’ve adapted. I’ve learned. I’ve worked. I’ve cared for people. I’ve b
 And I’m damn proud of that.
 
 Maybe the intention I’ve carried all these years wasn’t simply to survive.
-
 Maybe it was to become someone who could walk into almost any situation and say:
 
 “Okay. I don’t know how to do this yet…but I’ll figure it out.”
+
+<div class="alchemy-divider"></div>
 
 
 
