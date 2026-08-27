@@ -42,11 +42,11 @@ So this brings me to the last couple of weeks.
 
 At the tax office where I work, we have a handful of very successful local businessmen who have been clients for years. They’re investors, business owners, and people I used to find incredibly intimidating.
 
-In my younger mind, they represented this very stereotypical image of the capitalist patriarchy, the kind of powerful older men who might look at me as “just the secretary” and expect me to fetch coffee.
+In my younger mind, they represented this very stereotypical image of the capitalist patriarchy, the kind of powerful older men who might look at me as 'just the secretary' and expect me to fetch coffee.
 
 The funny thing is…none of them have ever actually treated me that way.
 
-Over the years, I’ve gotten to know some of them a little personally. They remember my name. They joke with me. They call me “the boss.” They’ve always been respectful and surprisingly sweet.
+Over the years, I’ve gotten to know some of them a little personally. They remember my name. They joke with me. They call me 'the boss.' They’ve always been respectful and surprisingly sweet.
 
 But I never really thought much about what that meant to me until yesterday.
 
@@ -54,7 +54,7 @@ Twice in one day, I had encounters with two of these men.
 
 The first called the office looking for my boss, who is currently on vacation. I told him when John would be back, and there was a little pause.
 
-Then he said, “You know, I’m really proud of you, Ashley. You’re putting yourself through school and doing something with yourself.”
+Then he said, “You know, I’m really proud of you, Ashley. You’re putting yourself through school and doing something with yourself. It's really wonderful.”
 
 That stopped me.
 
@@ -68,7 +68,7 @@ Then he told me he was a feminist.
 
 He said, “Do you know what makes me a feminist? It’s a pop quiz, but it’s only one word.”
 
-I jokingly said, “Your wife?”
+I jokingly said, “Your wife? Oops, that's two words! Wives?" 
 
 He said, “Daughters.”
 
@@ -80,13 +80,13 @@ And it honestly meant more to me than he probably realized.
 
 About an hour later, another longtime client came into the office. He sat down on the steps with me, and we ended up talking for about 20 minutes.
 
-He was dealing with some very personal things in his own life and was vulnerable with me about what he was going through. Then he asked what I was doing these days.
+He was dealing with some very personal health issues in his own life and was vulnerable with me about what he was going through. Then he asked what I was doing these days.
 
 I told him I’m finishing my accounting degree and plan to pursue my CPA license.
 
-His response was basically, “You need to do this. Yes. Absolutely.”
+His response was basically, “You need to do this. Yes. Absolutely."
 
-He told me I had built something there. He called me an asset to the team. I told him some of my long-term plans and what I hope to do when my boss eventually retires, and he was incredibly supportive.
+He told me I had built something there. The clients know me, they love me, you have a unique position. He called me an asset to the team. I told him some of my long-term plans and what I hope to do when my boss eventually retires, and he was incredibly supportive.
 
 And I walked away from both conversations thinking:
 
