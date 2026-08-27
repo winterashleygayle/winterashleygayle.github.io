@@ -61,7 +61,7 @@ You are. And mirrors don’t cause distortion, they reveal it. People who are do
 
 
 <blockquote class="pull-quote">
-The bottom line
+The bottom line...
 You’re not here to argue. You’re not here to convince. You’re not here to carry other people’s unprocessed material. You’re here to live in integrity with yourself. When that integrity disrupts others, that’s information, not an assignment.
 </blockquote>
 
