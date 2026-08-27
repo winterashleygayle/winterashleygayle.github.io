@@ -1,5 +1,5 @@
 ---
-date: 2026-01-28 
+date: 2026-08-25 
 layout: post
 title: TEMPERANCE
 dark_post: true
