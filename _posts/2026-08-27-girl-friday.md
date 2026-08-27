@@ -102,7 +102,7 @@ Maybe healing doesn’t always look like sitting down and consciously figuring o
 
 Maybe sometimes it looks like saying:
 
-“God. Source. Spirit. Whatever you are — I know there’s something in me that needs healing, but I honestly don’t know how to heal it. I don’t even know where to start. Please help me.”
+“God. Source. Spirit. Whatever you are, I know there’s something in me that needs healing, but I honestly don’t know how to heal it. I don’t even know where to start. Please help me.”
 
 And then letting go.
 
