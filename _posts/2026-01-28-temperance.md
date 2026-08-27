@@ -27,7 +27,10 @@ In the Major Arcana, Temperance comes after upheaval and before embodiment. It o
 
 <div class="alchemy-divider"></div>
 
-This is not beginner energy. It’s post-initiation. It’s the moment where someone has done enough inner work that they no longer swing between extremes, and that alone can deeply unsettle people who still do  
+This is not beginner energy. It’s post-initiation. It’s the moment where someone has done enough inner work that they no longer swing between extremes, and that alone can deeply unsettle people who still do.
+The alchemy becomes visible in the way you move through the world. This is one way to understand Temperance. 
+
+Here are seven ways that inner transformation can change the dynamics around you. 
 
 <div class="alchemy-divider"></div>
 
