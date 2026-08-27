@@ -13,6 +13,9 @@ tags:
 author: awinter
 ---
 
+# Girl Friday
+<div class="alchemy-divider"></div>
+
 Lately, I’ve had a really interesting couple of weeks and several unexpected, really positive run-ins with elderly gentlemen who could easily be father or grandfather figures to me.
 
 It’s made me realize something about myself that I hadn’t fully understood before: I have mommy wounds, but my daddy wound feels less like a wound and more like a hole, which is a wound. There just… wasn’t really a father there.
@@ -131,7 +134,10 @@ Not figuring it all out.
 
 Just asking for help…setting the intention…and paying attention when life answers in unexpected ways. ❤️
 
-##Girl Friday.
+<div class="alchemy-divider"></div>
+
+
+# Girl Friday.
 
 For years, I might have heard that term and thought it meant the woman behind the scenes who does everything for everyone else.
 
