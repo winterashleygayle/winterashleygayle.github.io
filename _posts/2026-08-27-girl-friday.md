@@ -42,7 +42,7 @@ So this brings me to the last couple of weeks.
 
 At the tax office where I work, we have a handful of very successful local businessmen who have been clients for years. They’re investors, business owners, and people I used to find incredibly intimidating.
 
-In my younger mind, they represented this very stereotypical image of the capitalist patriarchy — the kind of powerful older men who might look at me as “just the secretary” and expect me to fetch coffee.
+In my younger mind, they represented this very stereotypical image of the capitalist patriarchy, the kind of powerful older men who might look at me as “just the secretary” and expect me to fetch coffee.
 
 The funny thing is…none of them have ever actually treated me that way.
 
